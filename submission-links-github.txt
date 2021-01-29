@@ -3,3 +3,4 @@ Week 3:
 **Peer-graded Assignment: Segmenting and Clustering Neighborhoods in Toronto** (https://www.coursera.org/learn/applied-data-science-capstone/peer/I1bDq/segmenting-and-clustering-neighborhoods-in-toronto/submit)
 
 	1. https://github.com/ftarantuviez/data_science_capstone/blob/master/toronto-extract-data.ipynb
+	2. https://github.com/ftarantuviez/data_science_capstone/blob/master/toronto-extract-location.ipynb
