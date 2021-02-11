@@ -3,8 +3,9 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4e13a489b0fb5dfdd0756c90,PetSmart,43.748639084843475,-79.33348827385937,Pet Store,4bf58dd8d48988d100951735,Ontario,Parkwoods,43.75,-79.33,North York
 4cb11e2075ebb60cd1c4caad,Variety Store,43.75197441585782,-79.33311418516017,Food & Drink Shop,4bf58dd8d48988d1f9941735,29 Valley Woods Road,Parkwoods,43.75,-79.33,North York
 4aec8a50f964a5207ac821e3,Armenian Kitchen,43.73107096414275,-79.30539020048727,Middle Eastern Restaurant,4bf58dd8d48988d115941735,1646 Victoria Park Ave,Victoria Village,43.73,-79.31,North York
-4fff5c20e4b02bc662e83585,Blue Water Curry,43.731046,-79.30533,Caribbean Restaurant,4bf58dd8d48988d144941735,1646 Victoria Park,Victoria Village,43.73,-79.31,North York
+4bb653b9941ad13a7c401fe3,Wigmore Park,43.731023438497964,-79.3107706628902,Park,4bf58dd8d48988d163941735,Toronto ON,Victoria Village,43.73,-79.31,North York
 4bd7591b35aad13a78ae8ef3,Memories of Africa,43.72660188313635,-79.31242694132447,Grocery Store,4bf58dd8d48988d118951735,1733 Eglinton Ave. E (at Sloane Ave.),Victoria Village,43.73,-79.31,North York
+5b4a14d52463d80044e8a48d,The Retreat Nail & Beauty Bar,43.726134,-79.312205,Nail Salon,4f04aa0c2fb6e1c99f3db0b8,"1700 Eglinton Ave. E., Unit A6 (Sloane Ave)",Victoria Village,43.73,-79.31,North York
 5092fe87e4b0476c6e7375e2,Regent Park Aquatic Centre,43.6606003130796,-79.36139162915349,Pool,4bf58dd8d48988d15e941735,640 Dundas St. East (at Sumach St.),"Regent Park, Harbourfront",43.66,-79.36,Downtown Toronto
 5619551a498e9e35fce2256b,Sumach Espresso,43.65813540553308,-79.35951549011845,Coffee Shop,4bf58dd8d48988d1e0931735,118 Sumach St (at Shuter St),"Regent Park, Harbourfront",43.66,-79.36,Downtown Toronto
 505af105e4b0df441225430b,Daniels Spectrum,43.66013679276432,-79.36180783336452,Performing Arts Venue,4bf58dd8d48988d1f2931735,585 Dundas St. East (btwn Regent & Sumach),"Regent Park, Harbourfront",43.66,-79.36,Downtown Toronto
@@ -28,20 +29,23 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b2cf78cf964a52077cb24e3,Savoury Grounds,43.656820970004496,-79.3589698353747,Coffee Shop,4bf58dd8d48988d1e0931735,481 Queen St. East (Sumach St),"Regent Park, Harbourfront",43.66,-79.36,Downtown Toronto
 4bca9a2e0687ef3b3e78dccc,Tim Hortons,43.6599299,-79.3659798,Coffee Shop,4bf58dd8d48988d1e0931735,335 Parliament St (Dundas st e),"Regent Park, Harbourfront",43.66,-79.36,Downtown Toronto
 4cbc6a0f76ad9c7460ebe7cb,FreshCo,43.65955158801718,-79.36585713164392,Grocery Store,4bf58dd8d48988d118951735,325 Parliament St (at Dundas St),"Regent Park, Harbourfront",43.66,-79.36,Downtown Toronto
+4dc59e341fc72e86376488aa,Bark Place Hotel and Spaw,43.6614665351425,-79.3575533174757,Pet Store,4bf58dd8d48988d100951735,738 Dundas St. East (River),"Regent Park, Harbourfront",43.66,-79.36,Downtown Toronto
+5834fe851470b05200a49735,Wine Rack,43.656573,-79.356928,Wine Shop,4bf58dd8d48988d119951735,Toronto ON,"Regent Park, Harbourfront",43.66,-79.36,Downtown Toronto
 52ae475e498e1d931502955d,Krystos,43.71851626753137,-79.45585522412502,Greek Restaurant,4bf58dd8d48988d10e941735,22-3200 Dufferin Street,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4b5f1f11f964a52047a729e3,Yuki Japanese Restaurant,43.72060971477955,-79.45611946822187,Sushi Restaurant,4bf58dd8d48988d1d2941735,3259 Dufferin St.,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 558371db498eb7238b3505eb,Caffè Demetre,43.72017931839126,-79.45621855808365,Dessert Shop,4bf58dd8d48988d1d0941735,3250 Dufferin St,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4b9580fef964a52044a634e3,Mary Brown's Famous Chicken,43.71830860417442,-79.45570632677568,Fried Chicken Joint,4d4ae6fc7a7b7dea34424761,3199 Dufferin St. (at Samor Rd.),"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4b3a6056f964a520ec6525e3,Tim Hortons,43.7163463,-79.4468676,Coffee Shop,4bf58dd8d48988d1e0931735,700 Lawrence Ave West Lawrence Square Mall (Allen Rd),"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4cec65d10acea35dae19deae,KFC,43.7166,-79.447,Fast Food Restaurant,4bf58dd8d48988d16e941735,700 Lawrence Avenue West,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
+4e07a86445ddb2875c4c4698,Harbour Star Boat Cruise,43.71811392837763,-79.45023467228003,Moving Target,4f2a23984b9023bd5841ed2c,235 Queens Quay W,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4bc781946501c9b6bc8f3e29,Fortinos,43.716656,-79.447257,Grocery Store,4bf58dd8d48988d118951735,700 Lawrence Ave W,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4e72425a1495e4ca143b9fb8,McDonald's,43.7166442,-79.4467163,Fast Food Restaurant,4bf58dd8d48988d16e941735,700 Lawrence Ave W,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4fd50899e4b06a2d8dcf4842,Lawrence Square Food Court,43.717020075306216,-79.44724020082508,Food Court,4bf58dd8d48988d120951735,Canada,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
-4fc6157be5e8be84c8efaced,Freshslice Pizza,43.71705460578003,-79.4470739364624,Pizza Place,4bf58dd8d48988d1ca941735,700 Lawrence Road West (Inside Lawrence Square),"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
-4d00eaa31ebe6dcb11258a91,Dollarama,43.716656,-79.447257,Discount Store,52dea92d3cf9994f4e043dbb,"700 Lawrence Ave W., Lawrence Square","Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
+4c78303d566db60c96cc400e,The Source,43.716624,-79.44738,Electronics Store,4bf58dd8d48988d122951735,"700 Lawrence Ave W, Unit 120","Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
+51db0e41498ed7f9ea7db94e,Fit4Less,43.716656,-79.447257,Gym,4bf58dd8d48988d176941735,"700 Lawrence Ave W, 235","Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
+570fc884498eb17fdbfdff10,HomeSense,43.716651,-79.447267,Furniture / Home Store,4bf58dd8d48988d1f8941735,700 Lawrence Avenue West,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4ed5a1f42fb63f69a672950e,Bell,43.7165544455837,-79.4474494457244,Mobile Phone Shop,4f04afc02fb6e1c99f3db0bc,"700 Lawrence Ave W, Level 1","Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4e87a110d5fb988c9dd926c4,Flemington Park,43.721210814285435,-79.44456338882446,Park,4bf58dd8d48988d163941735,North York Division (Flemington Road and Allen Road),"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
-570fc33a498ebbb3a8710496,Marshalls,43.7167948331759,-79.4462692737579,Department Store,4bf58dd8d48988d1f6941735,700 Lawrence Avenue West,"Lawrence Manor, Lawrence Heights",43.72,-79.45,North York
 4a8355bff964a520d3fa1fe3,Mercatto,43.660390911898546,-79.38766421192705,Italian Restaurant,4bf58dd8d48988d110941735,101 College St,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 5db70a0c306d6b000861ac9f,NEO COFFEE BAR,43.66013,-79.38583,Coffee Shop,4bf58dd8d48988d1e0931735,770 Bay Street Unit 3,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 537d4d6d498ec171ba22e7fe,Jimmy's Coffee,43.65842123574496,-79.38561319551111,Coffee Shop,4bf58dd8d48988d1e0931735,82 Gerrard Street W (Gerrard & LaPlante),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
@@ -90,7 +94,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 59f25bd825ecca5f1cf24d0c,Omai,43.656006,-79.392494,Japanese Restaurant,4bf58dd8d48988d111941735,3 Baldwin St,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4bc0c71b74a9a5935fa6d0f6,Tim Hortons,43.6610382,-79.3937966,Coffee Shop,4bf58dd8d48988d1e0931735,1 King's College Circle (in the Medical Science Building),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4d385c97e6bdf04d924d63b4,Starbucks,43.660887,-79.39372,Coffee Shop,4bf58dd8d48988d1e0931735,1 King's College Circle (Medical Sciences Building),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
-4b588e29f964a520c35d28e3,Duck,43.660739056022976,-79.38391327857971,Chinese Restaurant,4bf58dd8d48988d145941735,444 Yonge Street (College),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 556df351498eebb865351b61,Yummy Zone,43.662755747929545,-79.38659907574278,Bubble Tea Shop,52e81612bcbc57f1066b7a0c,895 Bay Street (Breadalbane),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4b7c2a57f964a5208c812fe3,Tim Hortons,43.6594149,-79.3912214,Coffee Shop,4bf58dd8d48988d1e0931735,700 University Ave (Ontario Power Generation Building),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4bc867cc6501c9b6cf024029,Tim Hortons,43.6575525,-79.3885343,Coffee Shop,4bf58dd8d48988d1e0931735,610 University Ave (Princess Margaret Hospital),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
@@ -103,14 +106,15 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c408e62520fa5939738c8ac,Quick Pita,43.65879751594094,-79.39513763494665,Falafel Restaurant,4bf58dd8d48988d10b941735,Toronto ON M5T 1P9,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4b9e7bbdf964a520e9e736e3,Second Cup,43.660721671691235,-79.38630837243234,Coffee Shop,4bf58dd8d48988d1e0931735,800 Bay St (Metro Credit Union),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 529d18c911d255c5406ddd88,Pizzeria Via Mercanti,43.65679034740686,-79.38631071713952,Italian Restaurant,4bf58dd8d48988d110941735,87 Elm St (Btwn University Ave & Elizabeth St),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
+4cdbe3622db58eece01513a9,Queen’s Park Veterans' Memorial,43.66145766668674,-79.39133285798712,Monument / Landmark,4bf58dd8d48988d12d941735,University Ave (College Ave),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4c45cd36f0bdd13a8371cbcc,Teriyaki Experience,43.65988429565999,-79.38787892460823,Restaurant,4bf58dd8d48988d1c4941735,101 College Street,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
+4da5bd6e0437667c9b327871,Anoush,43.66003388545557,-79.38830898321906,Middle Eastern Restaurant,4bf58dd8d48988d115941735,Mars,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4b869576f964a520ac9031e3,Second Cup,43.663794067009306,-79.38692346576333,Coffee Shop,4bf58dd8d48988d1e0931735,900 Bay Street,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4b043153f964a520f85122e3,Thai Express,43.655835,-79.38813,Restaurant,4bf58dd8d48988d1c4941735,505 University Ave,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 541acbbe498ebf9d61765ff9,Presse Cafe,43.66257675207432,-79.38633959907268,Café,4bf58dd8d48988d16d941735,Toronto ON,"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4f246e82e4b05d3ba151f6c9,The Saj,43.65878737223263,-79.39520834668025,Mediterranean Restaurant,4bf58dd8d48988d1c0941735,199 College St (at Beverley St),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 552db032498e660b6506230c,Mo'Ramyun,43.65614757920083,-79.39228230349781,Korean Restaurant,4bf58dd8d48988d113941735,1 Baldwin St. (at Elm St.),"Queen's Park, Ontario Provincial Government",43.66,-79.39,Downtown Toronto
 4ee0c52fd3e38ddb2afea856,McDonald's,43.671091716525275,-79.52665125587696,Fast Food Restaurant,4bf58dd8d48988d16e941735,Port Hope ON,"Islington Avenue, Humber Valley Village",43.67,-79.53,Etobicoke
-5c53f7e18194fc002c76cfbb,Canadian Appliance Source Whitby,43.808353360406464,-79.19133067131041,Home Service,545419b1498ea6ccd0202f58,150 Taunton Rd. W,"Malvern, Rouge",43.81,-79.19,Scarborough
 5561eacb498e09ff53b397ad,Upper Rouge Trail,43.809988,-79.186147,Trail,4bf58dd8d48988d159941735,Canada,"Malvern, Rouge",43.81,-79.19,Scarborough
 5006bb1be4b044d21438e02d,Rippleton Park,43.74087097344082,-79.35975873873495,Park,4bf58dd8d48988d163941735,North York ON,Don Mills,43.74,-79.36,North York
 4ffed1d6e4b0a816c6ba9320,Talwood Park,43.7388964720403,-79.35455584048472,Park,4bf58dd8d48988d163941735,North York ON,Don Mills,43.74,-79.36,North York
@@ -204,6 +208,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b8bf257f964a520fcb332e3,freshii,43.66128623053018,-79.38396405932683,Salad Place,4bf58dd8d48988d1bd941735,23 College Street (btwn Yonge & Bay),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4ad7929cf964a520500c21e3,The Senator Restaurant,43.65564091455335,-79.37919882575557,Diner,4bf58dd8d48988d147941735,249 Victoria Street (btwn Dundas St E and Shuter St),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4d1cdda5d2a3a090cbd26772,Lake Devo,43.6569936860937,-79.37689788366988,Lake,4bf58dd8d48988d161941735,Victoria St. (at Gould St.),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
+4afcc52df964a520b82522e3,Donatello Restaurant,43.657489310288014,-79.38360495100461,Italian Restaurant,4bf58dd8d48988d110941735,37 Elm St. (at Bay St.),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4c054c04f56c2d7ffe711f66,Shoppers Drug Mart,43.658475,-79.384868,Pharmacy,4bf58dd8d48988d10f951735,700 Bay St (Gerrard Street),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4bb7ed2fb35776b0116ac801,Pita Way,43.661512057192034,-79.3810065733131,Falafel Restaurant,4bf58dd8d48988d10b941735,40 Carlton St,"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4c66e62119f3c9b6493fa1ff,Oasis Aqua Lounge,43.66197612790881,-79.377681165469,Lounge,4bf58dd8d48988d121941735,231 Mutual Drive (Carlton),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
@@ -214,6 +219,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b296c07f964a5209c9e24e3,Darvish,43.66340728021761,-79.38392863889676,Middle Eastern Restaurant,4bf58dd8d48988d115941735,508 Yonge St. (Btwn Maitland St. & Alexander St.),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 58e91d60e0adac258fcea481,GB Hand-Pulled Noodles,43.65643422548463,-79.3837827356398,Chinese Restaurant,4bf58dd8d48988d145941735,66 Edward Street (Bay Street),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4c302ae47cc0c9b6e90ded9a,Boutique Bar,43.664219464355675,-79.3804123393745,Gay Bar,4bf58dd8d48988d1d8941735,506 Church St (btwn Maitland & Alexander),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
+4bdf1c4bffdec92826c0eaa1,Booster Juice,43.65631796,-79.38276487,Juice Bar,4bf58dd8d48988d112941735,"20 Dundas Street West, Unit #F07 (btwn Yonge & Bay)","Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4c4e2474f53d0f47f18b13a6,Ethiopiques,43.65651274304155,-79.377077748846,Ethiopian Restaurant,4bf58dd8d48988d10a941735,227 Church St. (at Dundas St. E),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4b56336cf964a520070528e3,Shoppers Drug Mart,43.661799,-79.38324,Pharmacy,4bf58dd8d48988d10f951735,465 Yonge St (at College St.),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4b00d0a0f964a520364122e3,Pita Land,43.66025329859701,-79.37710715521973,Falafel Restaurant,4bf58dd8d48988d10b941735,102 Gerrard Street East (Jarvis Street),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
@@ -221,8 +227,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b1b25f6f964a520dcf823e3,Spa Excess,43.66225560735585,-79.37733708431908,Spa,4bf58dd8d48988d1ed941735,105 Carlton St (Jarvis),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4d75c2c58d7e236a805dae28,Holiday Inn Toronto Downtown Centre,43.66177921156988,-79.38104715459633,Hotel,4bf58dd8d48988d1fa931735,30 Carlton Street (at Yonge St.),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4bddd88f0ee3a593d7e12eb0,Ryerson Theatre,43.65941278506566,-79.37999674976807,Movie Theater,4bf58dd8d48988d17f941735,"43 Gerrard St. E, KHN-162 (btwn Yonge & Church)","Garden District, Ryerson",43.66,-79.38,Downtown Toronto
-4d21f9a05c4ca1cdd1f9ad3d,Ryerson Square,43.656988428886045,-79.37689617296417,Other Great Outdoors,4bf58dd8d48988d162941735,Gould St. (at Victoria St.),"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
-57c07e5f498ed3724a049dc1,Colaba Junction,43.66094,-79.385635,Indian Restaurant,4bf58dd8d48988d10f941735,801 Bay Street,"Garden District, Ryerson",43.66,-79.38,Downtown Toronto
 4b9ed4aff964a520f30437e3,Dairy Queen,43.7100679,-79.4534411,Ice Cream Shop,4bf58dd8d48988d1c9941735,2957 Dufferin St,Glencairn,43.71,-79.45,North York
 4d557ee1611aa35d9ab23539,Columbus Colombian Bakery (Panaderia Colombiana),43.709172692546765,-79.45333079398473,Latin American Restaurant,4bf58dd8d48988d1be941735,2931 Dufferin Street,Glencairn,43.71,-79.45,North York
 4d7e2738564b8cfadb0bec64,Lady York Foods,43.709445370032775,-79.45297906087649,Grocery Store,4bf58dd8d48988d118951735,2939 Dufferin St,Glencairn,43.71,-79.45,North York
@@ -230,10 +234,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4adc92e8f964a5206e2d21e3,Camarra's Pizzeria & Restaurant,43.708329,-79.453488,Pizza Place,4bf58dd8d48988d1ca941735,2899 Dufferin St,Glencairn,43.71,-79.45,North York
 4cc83b785b7aa143e825347d,Petro-Canada,43.707186,-79.453231,Gas Station,4bf58dd8d48988d113951735,2863 Dufferin St,Glencairn,43.71,-79.45,North York
 4bd2192477b29c74cffb8d82,Darosa,43.706969836937915,-79.453120889328,Mediterranean Restaurant,4bf58dd8d48988d1c0941735,2853 Dufferin Street (Glencairn),Glencairn,43.71,-79.45,North York
-4b0ae267f964a520692923e3,Mr. Sub,43.70897530585296,-79.45358754035846,Sandwich Place,4bf58dd8d48988d1c5941735,2928 Dufferin St. (Glengrove Ave.),Glencairn,43.71,-79.45,North York
-4d49fad2a0ef5481a3e7f7f6,Cinque Lire,43.708698,-79.453576,Pizza Place,4bf58dd8d48988d1ca941735,2910 Dufferin Street,Glencairn,43.71,-79.45,North York
-4c9cc2a37d69b713ffc822c2,Bologna Pastificio,43.708301109895565,-79.4533224471215,Italian Restaurant,4bf58dd8d48988d110941735,2895 Dufferin St.,Glencairn,43.71,-79.45,North York
-4de66b56ae607cf344749441,CINQUElire,43.708497217747784,-79.45371253229237,Italian Restaurant,4bf58dd8d48988d110941735,Toronto ON,Glencairn,43.71,-79.45,North York
 4ca6206997c8a1cdd33b6da5,Kokoro Sushi,43.7090306314996,-79.44405331675999,Sushi Restaurant,4bf58dd8d48988d1d2941735,572 Marlee Ave. (at Glencairn Ave.),Glencairn,43.71,-79.45,North York
 5002fc00e4b052458263a53a,Subway,43.64859448039206,-79.54869374504284,Sandwich Place,4bf58dd8d48988d1c5941735,316 Burnhamthorpe Road (Martin Grove Rd.),"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.65,-79.55,Etobicoke
 4af601f3f964a5201f0022e3,Pizza Pizza,43.648754693274114,-79.54872638036836,Pizza Place,4bf58dd8d48988d1ca941735,316 BURNHAMTHORPE ROAD,"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.65,-79.55,Etobicoke
@@ -241,23 +241,23 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ca9230897c8a1cdce2d8ca5,Far East Chinese Food,43.649243794114106,-79.54886564950132,Chinese Restaurant,4bf58dd8d48988d145941735,137 Martin Grove Road (Burnhamthorpe Road),"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.65,-79.55,Etobicoke
 4eac36d40aafb00bd94bd5f8,Victorian Garden Tea Room,43.648142634644344,-79.54912360544377,Tea Room,4bf58dd8d48988d1dc931735,313 Burnhamthorpe Rd (Martin Grove),"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.65,-79.55,Etobicoke
 5a0bd5d36cf01a0b5e07b6c2,My Daily Grind,43.6501403,-79.54566030000001,Coffee Shop,4bf58dd8d48988d1e0931735,4 Lorraine Gardens,"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.65,-79.55,Etobicoke
-536bdf8f498ede143cca0072,Scarborough Historical Society,43.78875526434558,-79.162437915802,History Museum,4bf58dd8d48988d190941735,6282 Kingston Road,"Rouge Hill, Port Union, Highland Creek",43.79,-79.16,Scarborough
-4e3ddf2bb61cb577be7e1844,Fox and Fiddle,43.78908246798306,-79.15445917449385,Bar,4bf58dd8d48988d116941735,160 Laird ave,"Rouge Hill, Port Union, Highland Creek",43.79,-79.16,Scarborough
+56358741498eaa6c5d806296,Ratti`s Personal Training,43.646899,-79.54667,Gym / Fitness Center,4bf58dd8d48988d175941735,107 Wedgewood Dr,"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",43.65,-79.55,Etobicoke
+5898005b76b8b25854c36663,Affordable Toronto Movers,43.787918740889744,-79.16297673924419,Moving Target,4f2a23984b9023bd5841ed2c,6262 kingston rd,"Rouge Hill, Port Union, Highland Creek",43.79,-79.16,Scarborough
 4b609d8df964a52068f029e3,Tim Hortons,43.7270816,-79.327143,Coffee Shop,4bf58dd8d48988d1e0931735,150 Wynford Dr (at Wynford Heights Cres.),Don Mills,43.73,-79.33,North York
-4b5ddd46f964a520af7029e3,Druxy's,43.72882898914713,-79.32915639492907,Deli / Bodega,4bf58dd8d48988d146941735,1 Concorde Gate (Wynford),Don Mills,43.73,-79.33,North York
 4e1b5de5e4cdb1407393ed21,Dallimore Cir Gym,43.730705650693224,-79.3323164909998,Gym,4bf58dd8d48988d176941735,120 Dallimore Cir (Green belt),Don Mills,43.73,-79.33,North York
 4f980d62e4b04b2e5fad8910,Concorde Park Condo Gym,43.73083247207351,-79.32723190645657,Gym,4bf58dd8d48988d176941735,5 (Concorde Place),Don Mills,43.73,-79.33,North York
 50bb8df0e4b0b45a1c5c0394,DVP at Wynford Dr.,43.72759528460237,-79.33055885670686,Intersection,52f2ab2ebcbc57f1066b8b4c,Don Valley Parkway (at Wynford Dr.),Don Mills,43.73,-79.33,North York
 4dc3113945dd26455234a02a,Moccasin Trail Park,43.73129679204527,-79.33411541918686,Park,4bf58dd8d48988d163941735,Toronto ON,Don Mills,43.73,-79.33,North York
-5b03411cc84d180024c74c39,Marcheleos Marketplace,43.727623,-79.326415,Grocery Store,4bf58dd8d48988d118951735,150 Wynford Drive,Don Mills,43.73,-79.33,North York
 566c2656498e9a9ccc484ba7,Hollandaise Diner,43.68652710817421,-79.3088972568512,Breakfast Spot,4bf58dd8d48988d143941735,2231 Danforth Avenue (Patricia Drive),Woodbine Heights,43.69,-79.31,East York
 4aedc47ef964a520b8ce21e3,Relish Bar & Grill,43.686280136535885,-79.31097995826282,Bar,4bf58dd8d48988d116941735,2152 Danforth Avenue (Danforth and Cedarvale),Woodbine Heights,43.69,-79.31,East York
 4aea1103f964a52004b921e3,Happy Sushi,43.68600806000232,-79.31127520072712,Sushi Restaurant,4bf58dd8d48988d1d2941735,2143 Danforth Ave,Woodbine Heights,43.69,-79.31,East York
 4c7e7bdb5af8b60c04979210,Petro-Canada,43.686556,-79.308184,Gas Station,4bf58dd8d48988d113951735,2265 Danforth Ave (at Patricia Dr),Woodbine Heights,43.69,-79.31,East York
 4b0b06a7f964a520c32b23e3,Value Village,43.68585413175487,-79.31202694827303,Thrift / Vintage Store,4bf58dd8d48988d101951735,2119 Danforth Avenue (Woodbine),Woodbine Heights,43.69,-79.31,East York
-56e0b7a4498e92e681fdc897,Time Capsule,43.68627418203743,-79.31040748827184,Café,4bf58dd8d48988d16d941735,2183 Danforth Ave,Woodbine Heights,43.69,-79.31,East York
+4cc9a7f2bcb1b1f75396108a,John's Hobby Shop,43.68630966732556,-79.3102534137641,Arts & Crafts Store,4bf58dd8d48988d127951735,2188 Danforth Ave (at Cedarvale Ave.),Woodbine Heights,43.69,-79.31,East York
+4baeb13bf964a52055cf3be3,Golden Pizza,43.68731255193761,-79.30636294810843,Pizza Place,4bf58dd8d48988d1ca941735,2360 Danforth Ave (at Oak Park Ave),Woodbine Heights,43.69,-79.31,East York
+4bebeeb462c0c9284ea6e2d4,Subway Convenience,43.686735,-79.312731,Smoke Shop,4bf58dd8d48988d123951735,1005 Woodbine Avenue (Danforth Avenue),Woodbine Heights,43.69,-79.31,East York
 4c868d9c47cc224bf599aa9f,Barknscratch,43.6875608,-79.3055584,Pet Store,4bf58dd8d48988d100951735,"2404 Danforth Ave, Main (Westlake Avenue)",Woodbine Heights,43.69,-79.31,East York
-4b0b0734f964a520cd2b23e3,Twelfth Fret,43.68608733932844,-79.31153476172945,Music Store,4bf58dd8d48988d1fe941735,2132 Danforth Ave. (at Woodbine Ave.),Woodbine Heights,43.69,-79.31,East York
+4aef91d3f964a52051d921e3,Woodbine Subway Station,43.6865003419232,-79.31290581822395,Metro Station,4bf58dd8d48988d1fd931735,2072 Danforth Ave (at Woodbine Ave),Woodbine Heights,43.69,-79.31,East York
 506db1a9e4b0a3f3b31412f0,Richmond Station,43.65156872562108,-79.37926594000328,American Restaurant,4bf58dd8d48988d14e941735,1 Richmond Street West (Yonge Street),St. James Town,43.65,-79.38,Downtown Toronto
 514627d1e4b0dba1b85e9ba8,Dineen Coffee,43.650497,-79.378765,Café,4bf58dd8d48988d16d941735,140 Yonge St (at Temperance St),St. James Town,43.65,-79.38,Downtown Toronto
 4ea43642be7ba4918efc5afa,Adelaide Club Toronto,43.64927944291712,-79.38192123284551,Gym / Fitness Center,4bf58dd8d48988d175941735,1 First Canadian Place,St. James Town,43.65,-79.38,Downtown Toronto
@@ -364,7 +364,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c86e638110176b0e9cab340,K & K,43.6894497552931,-79.43460190804107,Grocery Store,4bf58dd8d48988d118951735,468 Vaughan Road (Atlas Av),Humewood-Cedarvale,43.69,-79.43,York
 4c9e52cb0e9bb1f7f735e65f,Section 220 - The Red Brigade,43.68639832350953,-79.42857338070692,Soccer Stadium,4bf58dd8d48988d188941735,BMO Field (The Ex),Humewood-Cedarvale,43.69,-79.43,York
 4db1acf14df03036e8d3e8da,Cy Townsend Park,43.68964242001997,-79.43532528474807,Park,4bf58dd8d48988d163941735,Vaughan Rd (at Winona Dr),Humewood-Cedarvale,43.69,-79.43,York
-4d51bece9ffc236ad01826a7,Sam's Food Store,43.68944002140359,-79.43570095891785,Deli / Bodega,4bf58dd8d48988d146941735,534 Vaughan Road,Humewood-Cedarvale,43.69,-79.43,York
 4b017e51f964a520d84222e3,LCBO,43.642098691959625,-79.5765915607928,Liquor Store,4bf58dd8d48988d186941735,662 Burnhamthorpe Rd. (at Saturn Rd.),"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",43.64,-79.58,Etobicoke
 5cebda3300b068002dca9d81,Starbucks,43.641312,-79.576924,Coffee Shop,4bf58dd8d48988d1e0931735,666 Burnhamthorpe Rd,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",43.64,-79.58,Etobicoke
 4b017e8cf964a520da4222e3,The Beer Store,43.6413126,-79.5769248,Beer Store,5370f356bcbc57f1066c94c2,666 Burnhamthorpe Rd,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",43.64,-79.58,Etobicoke
@@ -395,10 +394,14 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c85a8c2ee6fef3b9b123e5c,Pizza Pizza,43.7684131598454,-79.18792963027954,Pizza Place,4bf58dd8d48988d1ca941735,"4447 Kingston Road, Unit 7-8","Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
 4b9023e9f964a5200e7833e3,McDonald's,43.76833410355284,-79.18828754919781,Fast Food Restaurant,4bf58dd8d48988d16e941735,4435 Kingston Rd. (Lawrence Ave E),"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
 4dea9ff9d4c00071b828d885,National Thrift,43.76799932703117,-79.19024597235247,Thrift / Vintage Store,4bf58dd8d48988d101951735,4410 Kingston Rd.,"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
-513b84e6e4b0ef935943c0ad,Lawrence Ave E & Kingston Rd,43.767704,-79.18949,Intersection,52f2ab2ebcbc57f1066b8b4c,Lawrence Ave E & Kingston Rd (Lawrence Ave E & Kingston Rd),"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
 4b847328f964a520293631e3,Food Basics,43.770184072629206,-79.18485161662375,Supermarket,52f2ab2ebcbc57f1066b8b46,255 Morningside Ave (Kingston Rd.),"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
-4c37c0792c8020a106a98900,GameStop,43.77035204879336,-79.18525404725565,Video Game Store,4bf58dd8d48988d10b951735,4525 Kingston Road (Morningside and Lawrence),"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
+4bf0101351f2c9b6be22f192,Pizza Nova,43.771506646379066,-79.18655439751862,Pizza Place,4bf58dd8d48988d1ca941735,4516 Kingston Rd,"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
+511fc593e4b048431b09a4fa,Morningside Crossing,43.770598655088534,-79.1855405666472,Shopping Mall,4bf58dd8d48988d1fd941735,265 Morningside Ave,"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
 4bb15f80f964a520898f3ce3,Best Coin Laundry,43.7686202,-79.1853145,Laundromat,52f2ab2ebcbc57f1066b8b33,4218 Lawrence Ave E (Morningside),"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
+4bbfb320920eb71335d0172c,Pita Land,43.7714507457918,-79.18529812721859,Greek Restaurant,4bf58dd8d48988d10e941735,4545 Kingston Rd (Morningside Morning),"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
+5411f741498e9ebd5e35d8bd,Big Bite Burrito,43.766299084470795,-79.19071980583941,Mexican Restaurant,4bf58dd8d48988d1c1941735,4383 Kingston rd.,"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
+4b9008acf964a520737133e3,Woburn Medical Centre,43.766631153138455,-79.19228553771973,Medical Center,4bf58dd8d48988d104941735,4125 Lawrence Ave E (Kingston Rd),"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
+56c27e75cd10dd4574dbe02a,Hakka No.1,43.77234,-79.18548,Indian Restaurant,4bf58dd8d48988d10f941735,4549A Kingston Rd (Morningside and Kingston),"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
 57fd24f6cd1083addfd77bf9,Sail Sushi,43.765951,-79.191275,Restaurant,4bf58dd8d48988d1c4941735,9-4352 Kingston Rd,"Guildwood, Morningside, West Hill",43.77,-79.19,Scarborough
 5286b7dd498e8b747c1dfe71,The Beech Tree,43.680493,-79.288846,Gastropub,4bf58dd8d48988d155941735,924 Kingston Rd.,The Beaches,43.68,-79.29,East Toronto
 4c0e40c0c700c9b6e185a3dd,Beaches Bake Shop,43.68036312619922,-79.28969173416124,Bakery,4bf58dd8d48988d16a941735,900 Kingston Rd. (Pickering Ave.),The Beaches,43.68,-79.29,East Toronto
@@ -410,10 +413,10 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4e305ec68877341a515c1023,Subway,43.68071629118834,-79.28700577544936,Sandwich Place,4bf58dd8d48988d1c5941735,"968 Kingston Road, Units 4 & 5 (at Scarborough Rd.)",The Beaches,43.68,-79.29,East Toronto
 4ade4a1af964a520ab7421e3,Starbucks,43.68088,-79.28497,Coffee Shop,4bf58dd8d48988d1e0931735,1020 Kingston Rd (Bingham Ave),The Beaches,43.68,-79.29,East Toronto
 4ba2b834f964a5203f1338e3,Mullins Irish Pub,43.68034802625127,-79.2893703487739,Pub,4bf58dd8d48988d11b941735,917 Kingston Rd (at Balsam Ave),The Beaches,43.68,-79.29,East Toronto
+4b6a3522f964a5201acd2be3,Threads Lifestyle,43.680515542044134,-79.28775159727243,Clothing Store,4bf58dd8d48988d103951735,950 Kingston Rd. (at Scarborough Rd.),The Beaches,43.68,-79.29,East Toronto
 4bacfb3af964a520e6203be3,Savoury Grounds,43.680540277686,-79.28742125217829,Coffee Shop,4bf58dd8d48988d1e0931735,285 Scarborough Rd (Kingston Rd),The Beaches,43.68,-79.29,East Toronto
 4df91c4bae60f95f82229ad5,Upper Beaches,43.68056321147582,-79.2928688743688,Neighborhood,4f2a25ac4b909258e854f55f,Toronto ON,The Beaches,43.68,-79.29,East Toronto
 4d87671b5e70224b8db64809,Trinity Gallery,43.6821531100509,-79.28936295790203,Furniture / Home Store,4bf58dd8d48988d1f8941735,926 Kingston Rd. (at Lawlor Ave.),The Beaches,43.68,-79.29,East Toronto
-4bf696fd5efe2d7f25656734,The Nail Curve,43.68080066346516,-79.28460196600717,Cosmetics Shop,4bf58dd8d48988d10c951735,Canada,The Beaches,43.68,-79.29,East Toronto
 506db1a9e4b0a3f3b31412f0,Richmond Station,43.65156872562108,-79.37926594000328,American Restaurant,4bf58dd8d48988d14e941735,1 Richmond Street West (Yonge Street),Berczy Park,43.65,-79.38,Downtown Toronto
 514627d1e4b0dba1b85e9ba8,Dineen Coffee,43.650497,-79.378765,Café,4bf58dd8d48988d16d941735,140 Yonge St (at Temperance St),Berczy Park,43.65,-79.38,Downtown Toronto
 4ea43642be7ba4918efc5afa,Adelaide Club Toronto,43.64927944291712,-79.38192123284551,Gym / Fitness Center,4bf58dd8d48988d175941735,1 First Canadian Place,Berczy Park,43.65,-79.38,Downtown Toronto
@@ -518,9 +521,9 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b60f788f964a520e4032ae3,Fairbank Memorial Park,43.69202800194052,-79.44892353333186,Park,4bf58dd8d48988d163941735,2213 Dufferin Street (btw Gibson St & Keywest Ave),Caledonia-Fairbanks,43.69,-79.45,York
 4ae240d5f964a520748c21e3,York Academy of Martial Arts,43.68762147805076,-79.44647645763582,Gym,4bf58dd8d48988d176941735,2081 Dufferin Street (Rogers Road),Caledonia-Fairbanks,43.69,-79.45,York
 4c8fba000b9e3704c5c4615e,Al Flaherty's Outdoor Store,43.68712586511377,-79.44692701193912,Sporting Goods Shop,4bf58dd8d48988d1f2941735,2066 Dufferin St. (at Eversfield Rd.),Caledonia-Fairbanks,43.69,-79.45,York
+4d90fdae3bfef04de458cf86,Jinny's China and Gift,43.767191,-79.20768,Jewelry Store,4bf58dd8d48988d111951735,300 borough Dr (Scarborough Town Centre),Woburn,43.77,-79.21,Scarborough
 4de0403ed4c040523ea079f4,Korean Grill House,43.7708117291354,-79.21450208834013,Korean BBQ Restaurant,5f2c3f6b5b4c177b9a6dc388,369 Yonge Street,Woburn,43.77,-79.21,Scarborough
 4c87985cb231b60c559b1aec,Country Style,43.77371602874512,-79.2070266305448,Coffee Shop,4bf58dd8d48988d1e0931735,136 Orton Park Rd (Brimorton & Orton Park),Woburn,43.77,-79.21,Scarborough
-50805f0fe4b01d45a08e2ef8,Orton Park Pharmacy,43.77372038155507,-79.20701222711858,Pharmacy,4bf58dd8d48988d10f951735,Canada,Woburn,43.77,-79.21,Scarborough
 4ba55702f964a52094fc38e3,LCBO,43.710571304463954,-79.36028703241085,Liquor Store,4bf58dd8d48988d186941735,147 Laird Ave (at Eglinton Ave),Leaside,43.71,-79.36,East York
 5531956d498e24c6e9994f2e,Local Leaside,43.71001166793114,-79.36351433524794,Sports Bar,4bf58dd8d48988d11d941735,180 Laird Dr,Leaside,43.71,-79.36,East York
 5640122fcd10bcf28224ede4,Charmaine Sweets,43.71271199043255,-79.358389377594,Bakery,4bf58dd8d48988d16a941735,115 Vanderhoof Ave. (On Vanderhoof Ave & Brentcliffe Rd),Leaside,43.71,-79.36,East York
@@ -606,7 +609,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 59f25bd825ecca5f1cf24d0c,Omai,43.656006,-79.392494,Japanese Restaurant,4bf58dd8d48988d111941735,3 Baldwin St,Central Bay Street,43.66,-79.39,Downtown Toronto
 4bc0c71b74a9a5935fa6d0f6,Tim Hortons,43.6610382,-79.3937966,Coffee Shop,4bf58dd8d48988d1e0931735,1 King's College Circle (in the Medical Science Building),Central Bay Street,43.66,-79.39,Downtown Toronto
 4d385c97e6bdf04d924d63b4,Starbucks,43.660887,-79.39372,Coffee Shop,4bf58dd8d48988d1e0931735,1 King's College Circle (Medical Sciences Building),Central Bay Street,43.66,-79.39,Downtown Toronto
-4b588e29f964a520c35d28e3,Duck,43.660739056022976,-79.38391327857971,Chinese Restaurant,4bf58dd8d48988d145941735,444 Yonge Street (College),Central Bay Street,43.66,-79.39,Downtown Toronto
 556df351498eebb865351b61,Yummy Zone,43.662755747929545,-79.38659907574278,Bubble Tea Shop,52e81612bcbc57f1066b7a0c,895 Bay Street (Breadalbane),Central Bay Street,43.66,-79.39,Downtown Toronto
 4b7c2a57f964a5208c812fe3,Tim Hortons,43.6594149,-79.3912214,Coffee Shop,4bf58dd8d48988d1e0931735,700 University Ave (Ontario Power Generation Building),Central Bay Street,43.66,-79.39,Downtown Toronto
 4bc867cc6501c9b6cf024029,Tim Hortons,43.6575525,-79.3885343,Coffee Shop,4bf58dd8d48988d1e0931735,610 University Ave (Princess Margaret Hospital),Central Bay Street,43.66,-79.39,Downtown Toronto
@@ -619,7 +621,9 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c408e62520fa5939738c8ac,Quick Pita,43.65879751594094,-79.39513763494665,Falafel Restaurant,4bf58dd8d48988d10b941735,Toronto ON M5T 1P9,Central Bay Street,43.66,-79.39,Downtown Toronto
 4b9e7bbdf964a520e9e736e3,Second Cup,43.660721671691235,-79.38630837243234,Coffee Shop,4bf58dd8d48988d1e0931735,800 Bay St (Metro Credit Union),Central Bay Street,43.66,-79.39,Downtown Toronto
 529d18c911d255c5406ddd88,Pizzeria Via Mercanti,43.65679034740686,-79.38631071713952,Italian Restaurant,4bf58dd8d48988d110941735,87 Elm St (Btwn University Ave & Elizabeth St),Central Bay Street,43.66,-79.39,Downtown Toronto
+4cdbe3622db58eece01513a9,Queen’s Park Veterans' Memorial,43.66145766668674,-79.39133285798712,Monument / Landmark,4bf58dd8d48988d12d941735,University Ave (College Ave),Central Bay Street,43.66,-79.39,Downtown Toronto
 4c45cd36f0bdd13a8371cbcc,Teriyaki Experience,43.65988429565999,-79.38787892460823,Restaurant,4bf58dd8d48988d1c4941735,101 College Street,Central Bay Street,43.66,-79.39,Downtown Toronto
+4da5bd6e0437667c9b327871,Anoush,43.66003388545557,-79.38830898321906,Middle Eastern Restaurant,4bf58dd8d48988d115941735,Mars,Central Bay Street,43.66,-79.39,Downtown Toronto
 4b869576f964a520ac9031e3,Second Cup,43.663794067009306,-79.38692346576333,Coffee Shop,4bf58dd8d48988d1e0931735,900 Bay Street,Central Bay Street,43.66,-79.39,Downtown Toronto
 4b043153f964a520f85122e3,Thai Express,43.655835,-79.38813,Restaurant,4bf58dd8d48988d1c4941735,505 University Ave,Central Bay Street,43.66,-79.39,Downtown Toronto
 541acbbe498ebf9d61765ff9,Presse Cafe,43.66257675207432,-79.38633959907268,Café,4bf58dd8d48988d16d941735,Toronto ON,Central Bay Street,43.66,-79.39,Downtown Toronto
@@ -636,9 +640,10 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ade0037f964a520396721e3,Faema Caffe,43.6710456734398,-79.41929697990417,Café,4bf58dd8d48988d16d941735,672 Dupont Street (Christie),Christie,43.67,-79.42,Downtown Toronto
 4aee0faef964a520b1d121e3,Loblaws,43.671657,-79.421364,Grocery Store,4bf58dd8d48988d118951735,650 Dupont St (at Christie St.),Christie,43.67,-79.42,Downtown Toronto
 4bb799a07421a593dcb9c040,Marlenes Just Babies,43.671824,-79.420499,Baby Store,52f2ab2ebcbc57f1066b8b32,631 Dupont St,Christie,43.67,-79.42,Downtown Toronto
-4bfc2a7fe05e0f47b348cfa8,Queens Club,43.672386069777616,-79.41810570233238,Athletics & Sports,4f4528bc4b90abdf24c9de85,568 Dupont St.,Christie,43.67,-79.42,Downtown Toronto
 4ba38ef7f964a520404738e3,The Beer Store,43.6733293,-79.4159156,Beer Store,5370f356bcbc57f1066c94c2,500 Dupont St. (at Bathurst),Christie,43.67,-79.42,Downtown Toronto
+53a66329498ea26469816eb2,The Avenue,43.77243726897931,-79.24196241109247,Lounge,4bf58dd8d48988d121941735,1085 Bellamy Rd. N Unit 4,Cedarbrae,43.77,-79.24,Scarborough
 4cbf64e997bc721e0c3f8567,North Bendale Park,43.769962687741085,-79.24526453018188,Playground,4bf58dd8d48988d1e7941735,Toronto ON,Cedarbrae,43.77,-79.24,Scarborough
+4f2300b8e4b04f6e67af7e84,Hydro Corridor,43.76625053049208,-79.24326748552245,Trail,4bf58dd8d48988d159941735,Toronto ON,Cedarbrae,43.77,-79.24,Scarborough
 4fb2f0d6e4b0fb410b80cd27,Hillcrest Tennis Club,43.798561,-79.363506,Tennis Court,4e39a956bd410d7aed40cbc3,Canada,Hillcrest Village,43.8,-79.36,North York
 5331a799498e3bfbae4a5a04,Villa Madina,43.80168506227364,-79.36393844569061,Mediterranean Restaurant,4bf58dd8d48988d1c0941735,Toronto ON,Hillcrest Village,43.8,-79.36,North York
 5a888f7647f8767d37b92f00,Grill Gate,43.753122978404804,-79.45169001817703,Mediterranean Restaurant,4bf58dd8d48988d1c0941735,832 Sheppard West (NE corner of Sheppard & Wilmington),"Bathurst Manor, Wilson Heights, Downsview North",43.75,-79.45,North York
@@ -648,9 +653,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 57277f21498e96aa95c78e6e,Adamson Barbecue,43.71245206628728,-79.35308334020402,BBQ Joint,4bf58dd8d48988d1df931735,176 Wicksteed Ave (at Copeland St),Thorncliffe Park,43.71,-79.35,East York
 5b56812a4420d8002c58cefa,Costco,43.70705091308799,-79.3480933503406,Warehouse Store,52e816a6bcbc57f1066b7a54,46-42 Overlea Blvd,Thorncliffe Park,43.71,-79.35,East York
 4daf08e66e81e2dffdd4fe40,Iqbal Kebab & Sweet Centre,43.705923230061344,-79.35152127765924,Indian Restaurant,4bf58dd8d48988d10f941735,"2 Thorncliffe Park Drive, Unit #17",Thorncliffe Park,43.71,-79.35,East York
-4c29291797d00f47f60441ea,Cross Fit Quantum,43.70688280775818,-79.35081900071673,Gym / Fitness Center,4bf58dd8d48988d175941735,2 Thorncliffe Park Dr. (at Overlea Blvd.),Thorncliffe Park,43.71,-79.35,East York
-593c6d26588e362dae48c763,Conspiracy Pizza,43.712503,-79.353145,Pizza Place,4bf58dd8d48988d1ca941735,176 Wicksteed Ave.,Thorncliffe Park,43.71,-79.35,East York
-4ba227ecf964a520e5df37e3,TTC Bus #100 Flemingdon Park,43.70677140337971,-79.34658765792847,Bus Line,4bf58dd8d48988d12b951735,Broadview Ave.,Thorncliffe Park,43.71,-79.35,East York
+5a9f0e59dff8157fc12af9bf,Four Seasons Co,43.713243,-79.352551,Business Service,5453de49498eade8af355881,63 Research Rd,Thorncliffe Park,43.71,-79.35,East York
 506db1a9e4b0a3f3b31412f0,Richmond Station,43.65156872562108,-79.37926594000328,American Restaurant,4bf58dd8d48988d14e941735,1 Richmond Street West (Yonge Street),"Richmond, Adelaide, King",43.65,-79.38,Downtown Toronto
 514627d1e4b0dba1b85e9ba8,Dineen Coffee,43.650497,-79.378765,Café,4bf58dd8d48988d16d941735,140 Yonge St (at Temperance St),"Richmond, Adelaide, King",43.65,-79.38,Downtown Toronto
 4ea43642be7ba4918efc5afa,Adelaide Club Toronto,43.64927944291712,-79.38192123284551,Gym / Fitness Center,4bf58dd8d48988d175941735,1 First Canadian Place,"Richmond, Adelaide, King",43.65,-79.38,Downtown Toronto
@@ -765,8 +768,10 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c51ca66b6dabe9a06ef5112,Wallace Emerson Park,43.66693250395496,-79.4394486237563,Park,4bf58dd8d48988d163941735,1260 Dufferin St,"Dufferin, Dovercourt Village",43.67,-79.44,West Toronto
 4bb4b34b8786ef3bc7866533,Rexall,43.667504,-79.442086,Pharmacy,4bf58dd8d48988d10f951735,1245 Dupont St (btwn Dufferin & Emerson),"Dufferin, Dovercourt Village",43.67,-79.44,West Toronto
 4ba8affcf964a52015e739e3,Wallace Emerson Community Centre,43.66729321721379,-79.43947609874155,Pool,4bf58dd8d48988d15e941735,1260 Dufferin St. (Dupont St.),"Dufferin, Dovercourt Village",43.67,-79.44,West Toronto
+4c65e872c2ead13aeb80b280,Pet Valu,43.667096215743925,-79.44175682188086,Pet Store,4bf58dd8d48988d100951735,1245 Dupont St (at Dufferin St),"Dufferin, Dovercourt Village",43.67,-79.44,West Toronto
 4bae6d13f964a520d7b03be3,LCBO,43.66700154292355,-79.44174720320675,Liquor Store,4bf58dd8d48988d186941735,"Galleria Mall, 1245 Dupont St. (btwn Duffern & Emerson)","Dufferin, Dovercourt Village",43.67,-79.44,West Toronto
 5011b02fe4b037378be1f1b6,Toronto Airsoft,43.67035362555409,-79.43509098730124,Sporting Goods Shop,4bf58dd8d48988d1f2941735,2370 Midland Avenue Unit C-2,"Dufferin, Dovercourt Village",43.67,-79.44,West Toronto
+5d2a517711549d0023171f76,Knockout Ice Cream,43.670717,-79.434551,Ice Cream Shop,4bf58dd8d48988d1c9941735,342 Westmoreland Ave N (Geary),"Dufferin, Dovercourt Village",43.67,-79.44,West Toronto
 4d7bb973f260a093e5b62cba,Salem Smoke Shop,43.67398524055055,-79.43731104476372,Smoke Shop,4bf58dd8d48988d123951735,1281 Davenport Road (Salem),"Dufferin, Dovercourt Village",43.67,-79.44,West Toronto
 4daca3b743a17e90f8e3f2f4,M&S Supermarket,43.746518727784135,-79.23160927976531,Grocery Store,4bf58dd8d48988d118951735,Toronto ON,Scarborough Village,43.75,-79.23,Scarborough
 4be08b64652b0f473fca7211,Cedarbrook Park,43.75367717164613,-79.22742364776057,Park,4bf58dd8d48988d163941735,Toronto ON,Scarborough Village,43.75,-79.23,Scarborough
@@ -786,13 +791,11 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4e062b0ab0fbba5eee13fefe,Ardene,43.77688620262047,-79.34717998514216,Women's Store,4bf58dd8d48988d108951735,1800 Sheppard Ave. E,"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
 4bd49fcf6798ef3bd409628d,BCBG Max Azria,43.77696607091188,-79.34701924857568,Boutique,4bf58dd8d48988d104951735,Fairview Mall (1800 Sheppard Ave. E.),"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
 4b74a5bef964a5200aea2de3,Garage Clothing,43.77695171853015,-79.34700906250485,Clothing Store,4bf58dd8d48988d103951735,1800 Sheppard Ave E (at Don Mills Rd),"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
-4b3a3a9cf964a5209d6225e3,Toys Toys Toys,43.7789120874428,-79.34456303829828,Toy / Game Store,4bf58dd8d48988d1f3941735,1800 Sheppard Ave. E (at Fairview Mall),"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
-4e2250ece4cdf685918f4f9e,Gateway Newstand (Fairview),43.77837592341407,-79.34480667114258,Convenience Store,4d954b0ea243a5684a65b473,1800 Sheppard Ave E,"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
-4eca98db8b81dcfdc71328e1,Teaopia,43.77874324350523,-79.34451221242404,Tea Room,4bf58dd8d48988d1dc931735,1800 Sheppard Ave. E (at Fairview Mall),"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
-4ca9ee9697c8a1cde98e93a5,Showcase,43.77877182143177,-79.34431968978073,Miscellaneous Shop,4bf58dd8d48988d1ff941735,1800 Sheppard Ave. E (at Fairvew Mall),"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
-4b787bfef964a52087d12ee3,RW&CO.,43.777878,-79.344653,Clothing Store,4bf58dd8d48988d103951735,1800 Sheppard Ave E,"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
+4e81025acc21007dafc80304,Guess by Marciano,43.7776879,-79.3455882,Women's Store,4bf58dd8d48988d108951735,212-1800 Sheppard Ave E,"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
+57dc5498498e958c972d05ef,LUSH,43.7780195856879,-79.34465646743774,Cosmetics Shop,4bf58dd8d48988d10c951735,"1800 Sheppard Ave, Unit #2013","Fairview, Henry Farm, Oriole",43.78,-79.35,North York
+4bca26f23740b71311306065,Le Château,43.777764595776006,-79.34474873969704,Clothing Store,4bf58dd8d48988d103951735,1800 Sheppard Ave E (at Fairview Mall),"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
+50b8fa07fe708406c3b7dedf,Rogers,43.77780232074048,-79.34464042531508,Mobile Phone Shop,4f04afc02fb6e1c99f3db0bc,1800 Sheppard Ave E (at Don Mills Rd),"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
 4c95344694a0236aae1d9412,GNC,43.77843789497575,-79.344162940979,Supplement Shop,5744ccdfe4b0c0459246b4cd,1800 Sheppard Ave (Fairview Mall),"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
-5609acee498ead376c1b923e,Hot Topic,43.777865755496514,-79.34452183849298,Clothing Store,4bf58dd8d48988d103951735,Canada,"Fairview, Henry Farm, Oriole",43.78,-79.35,North York
 4d3599d2eefa8cfa141d56b3,MUSE Massage Spa,43.7656861872247,-79.4893183666046,Massage Studio,52f2ab2ebcbc57f1066b8b3c,13-1290 Finch Ave. W. (at Keele St.),"Northwood Park, York University",43.77,-79.49,North York
 4d617a7829ef236a606fb159,Bamiyan Kabob,43.773768556446406,-79.49274051998997,Middle Eastern Restaurant,4bf58dd8d48988d115941735,4205 Keele St.,"Northwood Park, York University",43.77,-79.49,North York
 4be44e62910020a19484d114,Domino's Pizza,43.77344559145662,-79.49293762997553,Pizza Place,4bf58dd8d48988d1ca941735,4207 Keele St,"Northwood Park, York University",43.77,-79.49,North York
@@ -803,7 +806,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ada03f6f964a520441d21e3,Fresh from the Farm (Amish & Mennonite Meats),43.69333116755566,-79.34257376620852,Gourmet Shop,4bf58dd8d48988d1f5941735,350 Donlands Ave,"East Toronto, Broadview North (Old East York)",43.69,-79.34,East York
 4b705166f964a5203f122de3,Dieppe Park,43.692206959700314,-79.33607384580417,Park,4bf58dd8d48988d163941735,455 Cosburn Ave (Greenwood),"East Toronto, Broadview North (Old East York)",43.69,-79.34,East York
 4fa27f6ee4b01308e7c4b49f,TTC Bus 87 Cosburn,43.68927965596185,-79.34253746123672,Bus Line,4bf58dd8d48988d12b951735,Toronto ON,"East Toronto, Broadview North (Old East York)",43.69,-79.34,East York
-51604f8ae4b0b47458e153ae,Leslieville Cheese Market & Fine Foods,43.692423524707316,-79.34244394830175,Cheese Shop,4bf58dd8d48988d11e951735,381 Donlands Ave,"East Toronto, Broadview North (Old East York)",43.69,-79.34,East York
 4ada047df964a5204b1d21e3,Captain John's Fish & Chips,43.69334800579394,-79.34241644447944,Fish & Chips Shop,4edd64a0c7ddd24ca188df1a,371 Donlands Ave,"East Toronto, Broadview North (Old East York)",43.69,-79.34,East York
 4c9fe5ca03133704df8d76d5,Raj Kapuri Paan & Snacks,43.693381,-79.342434,Indian Restaurant,4bf58dd8d48988d10f941735,377 Donlands Ave,"East Toronto, Broadview North (Old East York)",43.69,-79.34,East York
 4b61ffbcf964a520bd2f2ae3,Pie in the Sky Studios,43.69361332449936,-79.34225129631804,Performing Arts Venue,4bf58dd8d48988d1f2931735,397 Donlands Ave.,"East Toronto, Broadview North (Old East York)",43.69,-79.34,East York
@@ -827,6 +829,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4f7891c7e4b0b9643b73e08d,Bellwoods Brewery,43.647097254598236,-79.41995537873463,Brewery,50327c8591d4c4b30a586d5d,124 Ossington Ave (at Argyle St),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 4af332d9f964a520aeeb21e3,Nova Era Bakery,43.64941868510166,-79.42217715153669,Bakery,4bf58dd8d48988d16a941735,1172 Dundas St. W (Ossington Ave.),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 4ae662e8f964a520cfa621e3,Reposado,43.647320789001384,-79.42003151431754,Bar,4bf58dd8d48988d116941735,136 Ossington Ave. (btwn Argyle & Foxley),"Little Portugal, Trinity",43.65,-79.42,West Toronto
+57b88065498eab22ccdd78d8,Moliceiro Restaurant,43.648816,-79.420487,Portuguese Restaurant,4def73e84765ae376e57713a,"217 Ossington Ave, (Dundas and Ossington)","Little Portugal, Trinity",43.65,-79.42,West Toronto
 4b2eca20f964a520b8e624e3,YogaSpace,43.64760744635252,-79.42013338783642,Yoga Studio,4bf58dd8d48988d102941735,148 Ossington Avenue (Dundas),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 58bc5afce9233e59f52901e6,Bellwoods Brewery Bottle Shop,43.64712,-79.420044,Beer Store,5370f356bcbc57f1066c94c2,126 Ossington Ave (Argyle St),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 4d4b19feb32b8cfaac7c7ea0,Lost & Found,43.64937792373502,-79.42414948228769,Men's Store,4bf58dd8d48988d106951735,44 Ossington Avenue (Queen Street),"Little Portugal, Trinity",43.65,-79.42,West Toronto
@@ -838,7 +841,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 54e000c9498e4adcc4e449be,La Cubana,43.64623003878161,-79.4196356996568,Cuban Restaurant,4bf58dd8d48988d154941735,92 Ossington Ave (at Humber St),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 4ae86cb3f964a5203eaf21e3,Pho Rua Vang (Golden Turtle),43.64689319654605,-79.41977781583955,Vietnamese Restaurant,4bf58dd8d48988d14a941735,125 Ossington Ave. (at Argyle St.),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 537bd61f498e0dae73728800,Bang Bang Ice Cream & Bakery,43.64624619920086,-79.41955285188536,Ice Cream Shop,4bf58dd8d48988d1c9941735,93a Ossington Ave (btwn Queen and Argyle),"Little Portugal, Trinity",43.65,-79.42,West Toronto
-4ad8cc7bf964a520c21421e3,Venezia Bakery,43.6468112760052,-79.41980345671674,Bakery,4bf58dd8d48988d16a941735,114 Ossington Avenue (Argyle),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 585c96058d8e995f7316745c,Gift Shop,43.64614871682715,-79.41948131634449,Cocktail Bar,4bf58dd8d48988d11e941735,89 Ossington Ave (Queen & Ossington),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 4ada6d8df964a520832221e3,Union Restaurant,43.64585979013257,-79.41953208988866,New American Restaurant,4bf58dd8d48988d157941735,72 Ossington Ave. (Queen St. W),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 53e7ff72498ec1fa4deab5d0,Mamakas Taverna,43.645908,-79.419654,Greek Restaurant,4bf58dd8d48988d10e941735,80 Ossington,"Little Portugal, Trinity",43.65,-79.42,West Toronto
@@ -846,16 +848,14 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4bedacfbe24d20a163d07114,Fred Hamilton Park,43.65333349939121,-79.42015916129617,Park,4bf58dd8d48988d163941735,Toronto ON,"Little Portugal, Trinity",43.65,-79.42,West Toronto
 4c0699288b4520a11da58597,Enoteca Sociale,43.64953524380918,-79.42579173923497,Italian Restaurant,4bf58dd8d48988d110941735,1288 Dundas Street West (Coolmine Rd.),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 51e063c1498e6dfbb5819eea,Crywolf,43.64620715620378,-79.41958280659624,Boutique,4bf58dd8d48988d104951735,91 Ossington Ave. (Humbert),"Little Portugal, Trinity",43.65,-79.42,West Toronto
-5ba1435b7564f7002cf5a80c,Pilot Coffee Roasters,43.646609556865684,-79.41960592835666,Coffee Shop,4bf58dd8d48988d1e0931735,117 Ossington Avenue (at Argyle St),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 51e8a391498e22d755ab7170,The Libertine,43.649419397067476,-79.4259818422771,Cocktail Bar,4bf58dd8d48988d11e941735,1307 Dundas Street West (Coolmine Road),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 4b451814f964a520580426e3,Shoppers Drug Mart,43.654295,-79.418944,Pharmacy,4bf58dd8d48988d10f951735,725 College St (at Crawford St.),"Little Portugal, Trinity",43.65,-79.42,West Toronto
 5119adf1e4b07fc31aed9ac1,MOJO Lounge,43.6493450392067,-79.42593010837892,Nightclub,4bf58dd8d48988d11f941735,1305 Dundas Street West (Dovercourt),"Little Portugal, Trinity",43.65,-79.42,West Toronto
-4ff89f75e4b024f55a900645,Trinity Bellwoods #1 North - Baseball,43.64997012089381,-79.41400876604314,Baseball Field,4bf58dd8d48988d1e8941735,Toronto ON,"Little Portugal, Trinity",43.65,-79.42,West Toronto
+4bb11217f964a520be773ce3,Pacha Lounge,43.649515,-79.425619,Nightclub,4bf58dd8d48988d11f941735,1305 Dundas St W (at Dovercourt),"Little Portugal, Trinity",43.65,-79.42,West Toronto
+54640d4b498ed8a954e91e59,Remix Lounge,43.649305417510014,-79.42582307555675,Lounge,4bf58dd8d48988d121941735,Canada,"Little Portugal, Trinity",43.65,-79.42,West Toronto
 4f383f27e4b017ad7bec3a02,Don Montgomery Arena,43.732549046367076,-79.26165774437062,Hockey Arena,4bf58dd8d48988d185941735,Kennedy and Eglinton,"Kennedy Park, Ionview, East Birchmount Park",43.73,-79.26,Scarborough
 4ae9b80ef964a520d0b521e3,Kennedy Subway/RT Station,43.73258189986914,-79.26343026387866,Metro Station,4bf58dd8d48988d1fd931735,2455 Eglinton Av E (at Kennedy Rd),"Kennedy Park, Ionview, East Birchmount Park",43.73,-79.26,Scarborough
 509ed473e4b0b1196948c920,Gateway Newstands,43.7325102050885,-79.26385442345111,Convenience Store,4d954b0ea243a5684a65b473,2455 Eglinton Ave. E (Kennedy),"Kennedy Park, Ionview, East Birchmount Park",43.73,-79.26,Scarborough
-4fcd2fb8e4b0ad6f4e7d52b9,Kennedy Station Passenger Pickup,43.73200926072711,-79.26453709017373,Bus Station,4bf58dd8d48988d1fe931735,Eglinton (Kennedy),"Kennedy Park, Ionview, East Birchmount Park",43.73,-79.26,Scarborough
-50807e62e4b06d38192ad719,TTC Bus #43 - Kennedy,43.73274357839762,-79.26408564983338,Bus Line,4bf58dd8d48988d12b951735,Kennedy Rd (Btwn Steeles Ave E & Eglinton Ave E.),"Kennedy Park, Ionview, East Birchmount Park",43.73,-79.26,Scarborough
 4e9c16230aaf5f690ef847c9,SRT - Moving Target,43.732974036277405,-79.26378835866568,Light Rail Station,4bf58dd8d48988d1fc931735,Scarborough ON,"Kennedy Park, Ionview, East Birchmount Park",43.73,-79.26,Scarborough
 4b7e8c18f964a52017f22fe3,Hertz,43.734092,-79.258352,Rental Car Location,4bf58dd8d48988d1ef941735,2507 Eglinton Ave East (at Midland Ave.),"Kennedy Park, Ionview, East Birchmount Park",43.73,-79.26,Scarborough
 5187de08498ed774a4e79e7b,Forest Grove,43.77934077365666,-79.37932635258618,Trail,4bf58dd8d48988d159941735,Canada,Bayview Village,43.78,-79.38,North York
@@ -915,10 +915,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ade346bf964a520e77321e3,GoodLife Fitness Toronto Danforth and Pape,43.678545,-79.345305,Gym,4bf58dd8d48988d176941735,635 Danforth Ave (at Pape Ave),"The Danforth West, Riverdale",43.68,-79.35,East Toronto
 4d67964c5b376dcba33d6d67,Tim Hortons,43.679887900037855,-79.34502475778572,Coffee Shop,4bf58dd8d48988d1e0931735,743 Pape Ave (TTC Pape Station),"The Danforth West, Riverdale",43.68,-79.35,East Toronto
 523f65d9049300f05cd43b97,New Balance,43.67874731748649,-79.34589833021164,Sporting Goods Shop,4bf58dd8d48988d1f2941735,613 Danforth Avenue (Pape & Danforth),"The Danforth West, Riverdale",43.68,-79.35,East Toronto
-52ce354c11d2e875bdfc358a,The Forth,43.67879168427029,-79.34555399866024,Mediterranean Restaurant,4bf58dd8d48988d1c0941735,629 Danforth Ave (at Pape Ave),"The Danforth West, Riverdale",43.68,-79.35,East Toronto
-53ceff77498e17abac63727a,Popeye's Supplements,43.678895771869136,-79.34538681026845,Supplement Shop,5744ccdfe4b0c0459246b4cd,639 Danforth Ave (at Pape Ave),"The Danforth West, Riverdale",43.68,-79.35,East Toronto
-4ad89cd0f964a520d81221e3,Pape Subway Station,43.68008150775497,-79.34495449476272,Metro Station,4bf58dd8d48988d1fd931735,743 Pape Ave (at Danforth Ave),"The Danforth West, Riverdale",43.68,-79.35,East Toronto
-5522a701498ea3715c2437b7,Asteria,43.67903948113632,-79.34433619173721,Souvlaki Shop,52e81612bcbc57f1066b79f3,679 Danforth Ave (at Pape Ave),"The Danforth West, Riverdale",43.68,-79.35,East Toronto
+4c5dfa799b28d13aa8475b70,The Palace Restaurant,43.679827,-79.345331,Restaurant,4bf58dd8d48988d1c4941735,722 Pape Avenue,"The Danforth West, Riverdale",43.68,-79.35,East Toronto
 506db1a9e4b0a3f3b31412f0,Richmond Station,43.65156872562108,-79.37926594000328,American Restaurant,4bf58dd8d48988d14e941735,1 Richmond Street West (Yonge Street),"Toronto Dominion Centre, Design Exchange",43.65,-79.38,Downtown Toronto
 514627d1e4b0dba1b85e9ba8,Dineen Coffee,43.650497,-79.378765,Café,4bf58dd8d48988d16d941735,140 Yonge St (at Temperance St),"Toronto Dominion Centre, Design Exchange",43.65,-79.38,Downtown Toronto
 4ea43642be7ba4918efc5afa,Adelaide Club Toronto,43.64927944291712,-79.38192123284551,Gym / Fitness Center,4bf58dd8d48988d175941735,1 First Canadian Place,"Toronto Dominion Centre, Design Exchange",43.65,-79.38,Downtown Toronto
@@ -1066,15 +1063,12 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 58e931cc375c4a3655c5dbf8,Hollywood Cone,43.64268076739934,-79.42580515103514,Ice Cream Shop,4bf58dd8d48988d1c9941735,1167 Queen Street W,"Brockton, Parkdale Village, Exhibition Place",43.64,-79.43,West Toronto
 5380c4dc498eefac45623382,Crepe & Co.,43.64277072688662,-79.42570460839345,Café,4bf58dd8d48988d16d941735,Toronto ON,"Brockton, Parkdale Village, Exhibition Place",43.64,-79.43,West Toronto
 50e78fa9e4b0cacd9df8bbcf,Happy Child,43.642877951178946,-79.42534576354039,Bar,4bf58dd8d48988d116941735,1186 Queen Street Weet (Northcote),"Brockton, Parkdale Village, Exhibition Place",43.64,-79.43,West Toronto
-4f066fbfca4854225c2dd862,Brockton Collective,43.64429641575617,-79.4297054770037,Art Gallery,4bf58dd8d48988d1e2931735,442 Dufferin St,"Brockton, Parkdale Village, Exhibition Place",43.64,-79.43,West Toronto
 4cb6527eb315a0934c469b76,Bakery On The Go,43.711270905205765,-79.27950587661704,Bakery,4bf58dd8d48988d16a941735,3276 St. Clair Ave. East (Warden),"Golden Mile, Clairlea, Oakridge",43.71,-79.28,Scarborough
 4eb2c6918b815ab741f9fcdd,Cafe on the go,43.71115104374148,-79.27946923512921,Bakery,4bf58dd8d48988d16a941735,3276 St. Clair Ave E (Warden Ave),"Golden Mile, Clairlea, Oakridge",43.71,-79.28,Scarborough
 4d6baccf6107f04d5a94317a,TTC Bus #68 Warden,43.71177810997778,-79.27971412913774,Bus Line,4bf58dd8d48988d12b951735,Warden Ave,"Golden Mile, Clairlea, Oakridge",43.71,-79.28,Scarborough
 4aef7f5ff964a520e4d821e3,Warden Subway Station,43.71122905571982,-79.27960224480387,Metro Station,4bf58dd8d48988d1fd931735,3276 St Clair Ave E (at Warden Ave),"Golden Mile, Clairlea, Oakridge",43.71,-79.28,Scarborough
 4fe26c39e4b00dcb4e287fb0,Warden Woods Park,43.71052711027375,-79.27896551895955,Park,4bf58dd8d48988d163941735,Toronto ON M1L,"Golden Mile, Clairlea, Oakridge",43.71,-79.28,Scarborough
 516f1db2e4b037c43004ba18,Warden Station Bus Loop,43.71124084776515,-79.27957605867647,Bus Station,4bf58dd8d48988d1fe931735,St. Clair Avenue East,"Golden Mile, Clairlea, Oakridge",43.71,-79.28,Scarborough
-4cdefc973644a0931fa84f9f,TTC Bus 102 Markham Road,43.711381420906115,-79.27958752636661,Bus Line,4bf58dd8d48988d12b951735,Markham Rd. (Moving Target),"Golden Mile, Clairlea, Oakridge",43.71,-79.28,Scarborough
-4f9a23a7e4b01cdc44fe1c04,Warden Ave & St. Clair Ave E,43.71205669347002,-79.28100496530533,Intersection,52f2ab2ebcbc57f1066b8b4c,St Clair Avenue East (at Warden Avenue),"Golden Mile, Clairlea, Oakridge",43.71,-79.28,Scarborough
 4b660c92f964a520bb102be3,Baskin-Robbins,43.7472210863298,-79.3843286802534,Ice Cream Shop,4bf58dd8d48988d1c9941735,2536 Bayview Ave (at York Mill Rd),"York Mills, Silver Hills",43.75,-79.38,North York
 4d12ac7012916dcba815d88a,Hero Certified Burgers,43.74740980372292,-79.38463420961683,Burger Joint,4bf58dd8d48988d16c941735,305 York Mills Road (Bayview Ave),"York Mills, Silver Hills",43.75,-79.38,North York
 4aec3ce5f964a5209ec521e3,York Mills Arena,43.74798198272735,-79.38342659137027,Baseball Field,4bf58dd8d48988d1e8941735,2539 Bayview Ave (at York Mills),"York Mills, Silver Hills",43.75,-79.38,North York
@@ -1084,8 +1078,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4bd74190f645c9b6968ca5e0,Nortown Foods,43.74749734819542,-79.38493506310054,Butcher,4bf58dd8d48988d11d951735,892 Eglinton Ave. W (at Bathurst),"York Mills, Silver Hills",43.75,-79.38,North York
 583f6f0003cf2521ae0568dd,Canada Post,43.74695694222636,-79.38435338587823,Post Office,4bf58dd8d48988d172941735,Canada,"York Mills, Silver Hills",43.75,-79.38,North York
 4f1d5813e4b0889e07316497,Country Style,43.747103,-79.384689,Coffee Shop,4bf58dd8d48988d1e0931735,"2534 Bayview Ave, Baskin Robbins","York Mills, Silver Hills",43.75,-79.38,North York
-5ab541daccad6b687f4da562,Busy B Maids,43.729702,-79.509533,Home Service,545419b1498ea6ccd0202f58,190 Exbury Rd,Downsview,43.73,-79.51,North York
-4db34b5cfc607e0aa22b27e6,Heathrow Park,43.72939056905414,-79.5039689540863,Park,4bf58dd8d48988d163941735,69 Heathrow Drive,Downsview,43.73,-79.51,North York
 5859d15c1d21ba53f2f9b4ef,Lake Inez,43.672520212121675,-79.32071230366756,Asian Restaurant,4bf58dd8d48988d142941735,1471 Gerrard St E,"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
 4ae0c7a8f964a520638221e3,Udupi Palace,43.67247950462566,-79.32127455331215,Indian Restaurant,4bf58dd8d48988d10f941735,1460 Gerrard St E (Coxwell Ave),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
 5957bd26d1a40251f53875e5,Godspeed Brewery,43.67262030152577,-79.31922849103603,Brewery,50327c8591d4c4b30a586d5d,242 Coxwell Ave (at Gerrard St E),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
@@ -1108,14 +1100,13 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4bbcc0efa0a0c9b60ebd1a0f,Haandi 2000,43.67192914440453,-79.32366244535852,Indian Restaurant,4bf58dd8d48988d10f941735,1401 Gerrard St E (Hiawatha),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
 4d8d278a1d06b1f712942a3b,Gautama,43.67215025713003,-79.32287710601119,Indian Restaurant,4bf58dd8d48988d10f941735,1416 Gerrard St East,"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
 4b171713f964a52028c223e3,GoodLife Fitness Toronto Coxwell and Gerrard,43.673334,-79.319706,Gym,4bf58dd8d48988d176941735,280 Coxwell Ave (at Gerrard),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
-50d8aa0a498e6fa64475bc90,The Pantry,43.67274,-79.319281,Restaurant,4bf58dd8d48988d1c4941735,1620 Gerrard St. E. (Coxwell Ave.),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
-514a5200e4b0462db14f3f2b,Dollar Tree,43.67323490000353,-79.31929385497965,Discount Store,52dea92d3cf9994f4e043dbb,265 Coxwell Ave.,"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
+4b5376f6f964a5203d9e27e3,Kohinoor Foods,43.672446,-79.321775,Grocery Store,4bf58dd8d48988d118951735,1449 Gerrard Street E (Ashdale),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
+4b9befeff964a520063836e3,Toronto Cash & Carry,43.671954,-79.323412,Grocery Store,4bf58dd8d48988d118951735,1405 Gerrard St E,"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
 4edd30c09adfe5cbe2818dc4,Lahori Taste & Burger House,43.6716559063876,-79.32458125378369,Indian Restaurant,4bf58dd8d48988d10f941735,Canada,"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
 4c575eb630d82d7f3cc5d962,Desi Burger & Chaat House,43.67170831818089,-79.32461426469615,Burger Joint,4bf58dd8d48988d16c941735,1340 Gerrard St.,"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
-4cf9bd29feec6dcb1f5f3b36,TTC Streetcar Loop,43.66645232917386,-79.31645471163147,Light Rail Station,4bf58dd8d48988d1fc931735,Coxwell Ave (Queen St E.),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
+4b6c7889f964a520c63c2ce3,Dollarama,43.674006,-79.319466,Discount Store,52dea92d3cf9994f4e043dbb,293 Coxwell Ave (at Gerrard St),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
+509adcede4b0541c5e013349,Queen & Coxwell,43.66641257115568,-79.31652545928955,Intersection,52f2ab2ebcbc57f1066b8b4c,Queen St E (& Coxwell Ave),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
 4d9620afb188721e907bef36,KFC,43.666624203184845,-79.31591580156237,Fast Food Restaurant,4bf58dd8d48988d16e941735,1364 Queen St. East,"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
-53d9133e498ef675684a0d50,The Social Gardener,43.671492504534825,-79.32576413751154,Vegetarian / Vegan Restaurant,4bf58dd8d48988d1d3941735,1326 Gerrard St E (btwn Glenside and Highfield),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
-4e285bb2922edcb0003db27a,Shop Task - Inline Skate Shop,43.66652898514072,-79.31618481874466,Board Shop,4bf58dd8d48988d1f1941735,1624 Queen St E (at Coxwell Ave),"India Bazaar, The Beaches West",43.67,-79.32,East Toronto
 506db1a9e4b0a3f3b31412f0,Richmond Station,43.65156872562108,-79.37926594000328,American Restaurant,4bf58dd8d48988d14e941735,1 Richmond Street West (Yonge Street),"Commerce Court, Victoria Hotel",43.65,-79.38,Downtown Toronto
 514627d1e4b0dba1b85e9ba8,Dineen Coffee,43.650497,-79.378765,Café,4bf58dd8d48988d16d941735,140 Yonge St (at Temperance St),"Commerce Court, Victoria Hotel",43.65,-79.38,Downtown Toronto
 4ea43642be7ba4918efc5afa,Adelaide Club Toronto,43.64927944291712,-79.38192123284551,Gym / Fitness Center,4bf58dd8d48988d175941735,1 First Canadian Place,"Commerce Court, Victoria Hotel",43.65,-79.38,Downtown Toronto
@@ -1219,11 +1210,13 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4cc89a5cd54fa1cdde933229,Petro-Canada,43.705891,-79.487841,Gas Station,4bf58dd8d48988d113951735,1571 Lawrence Ave W (at Culford Rd),"North Park, Maple Leaf Park, Upwood Park",43.71,-79.49,North York
 4f445427e4b0348bbb22be2d,Coffee Time,43.70586397728154,-79.48857307434082,Coffee Shop,4bf58dd8d48988d1e0931735,1575 Lawrence Ave W (Culford Rd),"North Park, Maple Leaf Park, Upwood Park",43.71,-79.49,North York
 4f8ba717121d29fd94277ce8,Queen's GreenBelt Park,43.71235526161373,-79.48475360870361,Trail,4bf58dd8d48988d159941735,48 Gracefield Ave. (btwn Keele St. & Culford Rd.),"North Park, Maple Leaf Park, Upwood Park",43.71,-79.49,North York
-57c08070498e806b073d9cf4,Green Air Mechanical,43.759363,-79.556898,Construction & Landscaping,5454144b498ec1f095bff2f2,18-175 Toryork Dr,Humber Summit,43.76,-79.56,North York
+4f07a34ee4b0ef60ecbd8ffd,Yashi Sports,43.762068517275,-79.55876624223649,Sporting Goods Shop,4bf58dd8d48988d1f2941735,"457 Fenmar Dr #457, North York, ON M9L 1X1",Humber Summit,43.76,-79.56,North York
+5818c1f638fa2ddd465acafc,Newland Bayizga Construction Ltd,43.759363,-79.556898,Construction & Landscaping,5454144b498ec1f095bff2f2,1B-175 Toryork Dr,Humber Summit,43.76,-79.56,North York
+50b113a8e4b03ce491d20310,Mach 1 Airsoft,43.761651,-79.562306,Hobby Shop,4bf58dd8d48988d1fb941735,237 Toryork Dr. Unit 2,Humber Summit,43.76,-79.56,North York
 5a44d25cacb00b66acf6998d,JRG Mechanical,43.763826322003744,-79.5615828037262,Home Service,545419b1498ea6ccd0202f58,715 Fenmar Drive,Humber Summit,43.76,-79.56,North York
 4c952c5b82b56dcb5169d6aa,Cathedral Bluffs Park,43.71889517184152,-79.23082724161875,Park,4bf58dd8d48988d163941735,2-50 Lyme Regis Crescent,"Cliffside, Cliffcrest, Scarborough Village West",43.72,-79.23,Scarborough
 5daf06f6517db40008213e20,Progressive Interiors,43.720834,-79.227256,Construction & Landscaping,5454144b498ec1f095bff2f2,11 Scarborough Heights,"Cliffside, Cliffcrest, Scarborough Village West",43.72,-79.23,Scarborough
-555f5fcb498e47aa0552ce87,Camp Tournesol - Leadership Weekend,43.72420372616929,-79.22994375228882,Summer Camp,52e81612bcbc57f1066b7a10,950 Bethesda Side Road Station B,"Cliffside, Cliffcrest, Scarborough Village West",43.72,-79.23,Scarborough
+5f1b5fdf0954116ceec4feef,Newtonbrook Park,43.786942,-79.410022,Park,4bf58dd8d48988d163941735,Toronto ON M2M 2B3,"Willowdale, Newtonbrook",43.79,-79.41,North York
 4c59fce9d3aee21e1aae6955,Roding Park,43.728655041194294,-79.49291760986993,Baseball Field,4bf58dd8d48988d1e8941735,Canada,Downsview,43.73,-79.49,North York
 57084dc9498ea1437e46f6e6,Blue Sail Energy Solutions,43.7314450238841,-79.49378728866577,Business Service,5453de49498eade8af355881,154 Calvington Dr,Downsview,43.73,-79.49,North York
 4ad78ecaf964a520220c21e3,Te Aro,43.66137281675049,-79.33857736283377,Coffee Shop,4bf58dd8d48988d1e0931735,983 Queen St E (at Pape Ave),Studio District,43.66,-79.34,East Toronto
@@ -1266,7 +1259,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c56eab3b7a31b8d96ff4eda,B&B Fish and Chips,43.662114,-79.335313,Fish & Chips Shop,4edd64a0c7ddd24ca188df1a,1116 Queen St. E (at Caroline Ave.),Studio District,43.66,-79.34,East Toronto
 54f74015498ed3d3a11acf06,Remarkable Bean Leslieville,43.662010192871094,-79.33570861816406,Café,4bf58dd8d48988d16d941735,1103 Queen street e (Brooklyn ave),Studio District,43.66,-79.34,East Toronto
 510f2670e4b0898fbd822b0b,McQueens Pub,43.66148312783299,-79.338072195258,Gastropub,4bf58dd8d48988d155941735,993 Queen St E (Pape Ave),Studio District,43.66,-79.34,East Toronto
-4aec321bf964a52078c521e3,Shoppers Drug Mart,43.661222,-79.340584,Pharmacy,4bf58dd8d48988d10f951735,970 Queen St E (at Carlaw Ave.),Studio District,43.66,-79.34,East Toronto
 4ae74ec5f964a52044aa21e3,OK OK Diner,43.66225329502585,-79.3350107360736,Diner,4bf58dd8d48988d147941735,1128 Queen Str E (Bertmount Av),Studio District,43.66,-79.34,East Toronto
 4af5cf4df964a5201afd21e3,Stratengers,43.662479726735796,-79.33487833224389,Pizza Place,4bf58dd8d48988d1ca941735,1130 Queen St East (at Bertmount Ave),Studio District,43.66,-79.34,East Toronto
 4b783705f964a520febc2ee3,The Bagel House,43.7283374321573,-79.4180892175865,Bagel Shop,4bf58dd8d48988d179941735,1722 Avenue Rd (btwn St. Germain & Fairlawn Ave),"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
@@ -1288,14 +1280,12 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4bf12f7121072d7fc1a5208b,RBC Royal Bank,43.72615446820898,-79.41683981521699,Bank,4bf58dd8d48988d10a951735,1635 AVENUE RD (at Cranbrooke Ave.),"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
 4bc13313f8219c743e18b310,Il Fornaro,43.734073,-79.41987,Italian Restaurant,4bf58dd8d48988d110941735,Toronto ON,"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
 4b6219e5f964a52074352ae3,Pizza Pizza,43.731952,-79.415019,Pizza Place,4bf58dd8d48988d1ca941735,Elm St (Yonge),"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
-4e5eafb962e12101204207b7,Citywide Locksmiths Ltd.,43.72900674221667,-79.41854458884336,Locksmith,52f2ab2ebcbc57f1066b8b1e,1750 Avenue Road,"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
-4be06e8d724d76b0a9968538,Want Boutique,43.72992550936172,-79.41879272460938,Women's Store,4bf58dd8d48988d108951735,1788 Avenue Rd (at Melrose Ave.),"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
-4c41b5b7e26920a15bd15ee7,Toy town,43.729135,-79.418499,Toy / Game Store,4bf58dd8d48988d1f3941735,1754 Avenue Road (St Germain),"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
-4c1c260cb306c928767b63b7,Videoflicks,43.72768510888065,-79.41776026478563,Video Store,4bf58dd8d48988d126951735,1701 Avenue Rd. (at Fairlawn Ave.),"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
-4cae167d18a3199ca9015cfb,Short & Sweet Cupcakes,43.73398728803477,-79.41965901042369,Cupcake Shop,4bf58dd8d48988d1bc941735,1945 Avenue Rd.,"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
+4bb64f902ea19521ee78ab2f,Marty's Chez TABAC | Fine Cigars and Tobacconist,43.731409,-79.419204,Hobby Shop,4bf58dd8d48988d1fb941735,1849 Avenue Rd (Avenue Road and Old Orchard),"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
+4bdc4ee22a3a0f476a3ab2b6,The wine butler,43.728542,-79.418281,Wine Shop,4bf58dd8d48988d119951735,1732 Avenue Rd,"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
+4bb7875953649c741ad145fb,Vida Nails & Spa,43.727454,-79.417495,Cosmetics Shop,4bf58dd8d48988d10c951735,1685 Avenue Road,"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
 4bc21e55abf49521defdc193,Ledbury Dog Park,43.728096,-79.42542314529189,Park,4bf58dd8d48988d163941735,160 Ledbury Street,"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
-4dd9646ad22d38ef43183a4e,Brookdale Park,43.72586442377834,-79.4178692374157,Park,4bf58dd8d48988d163941735,Ontario,"Bedford Park, Lawrence Manor East",43.73,-79.42,North York
 5387ed15498e7b711dcb33a1,Super Coffee,43.68686134703151,-79.48960043952441,Coffee Shop,4bf58dd8d48988d1e0931735,1148 Weston Road (at Eglinton Ave W),"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.69,-79.49,York
+4c4492fd2d3ec9b648112fae,TTC Bus #89 Weston,43.68864218563354,-79.48998320874136,Bus Line,4bf58dd8d48988d12b951735,Weston Rd.,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.69,-79.49,York
 4db07a970cb6442b2eb7b2c9,Domino's Pizza,43.68770082931296,-79.49175255098748,Pizza Place,4bf58dd8d48988d1ca941735,1200 Weston Rd,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.69,-79.49,York
 4dc94fa51f6eac6454a15bd4,Coffee Time,43.689527376543786,-79.4940142286444,Coffee Shop,4bf58dd8d48988d1e0931735,Toronto ON,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.69,-79.49,York
 4df3ca5f22718759f8212af6,Caplan Miele Gallery,43.68641645778968,-79.48867061763234,Furniture / Home Store,4bf58dd8d48988d1f8941735,1130 Weston Road,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.69,-79.49,York
@@ -1351,21 +1341,22 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4a6de49bf964a52044d31fe3,North York City Centre,43.76861773238915,-79.41315993696033,Shopping Mall,4bf58dd8d48988d1fd941735,5100 Yonge St. (at Park Home Ave.),"Willowdale, Willowdale East",43.77,-79.41,North York
 4b410a86f964a520e7bf25e3,Oh Geul Boh Geul 오글보글,43.77315120705706,-79.4139145399907,Korean Restaurant,4bf58dd8d48988d113941735,5320 Yonge St (Church),"Willowdale, Willowdale East",43.77,-79.41,North York
 4b2835dff964a520f09024e3,Novotel Toronto North York,43.76872304736466,-79.41425730725825,Hotel,4bf58dd8d48988d1fa931735,3 Park Home Ave. (at Yonge St.),"Willowdale, Willowdale East",43.77,-79.41,North York
+5bb92d3ec53093002c1d6a1a,PROJECT:FISH,43.7691,-79.414305,Sushi Restaurant,4bf58dd8d48988d1d2941735,16 Park Home Ave (Yonge St),"Willowdale, Willowdale East",43.77,-79.41,North York
 4bce030968f976b04e446583,Trio Restaurant,43.769057691735014,-79.41437684224671,Restaurant,4bf58dd8d48988d1c4941735,3 Park Home Avenue (btw Finch Ave E and Sheppard Ave W),"Willowdale, Willowdale East",43.77,-79.41,North York
+59b9ab7e72475026b94d4fcc,Gibson Park,43.768906,-79.415474,Park,4bf58dd8d48988d163941735,Yonge St (Park Home Ave),"Willowdale, Willowdale East",43.77,-79.41,North York
 4c23af7eb7b8a593e5413be8,Durante's No Frills,43.758178,-79.51968,Grocery Store,4bf58dd8d48988d118951735,1 York Gate Blvd (at Jane & Finch),Downsview,43.76,-79.52,North York
 4f0cac7ee4b0f615a3adedb5,Pho Com Viet Nam,43.75663119859895,-79.51833633068185,Vietnamese Restaurant,4bf58dd8d48988d14a941735,1991 Finch Ave. (at Jane St.),Downsview,43.76,-79.52,North York
 4ee91cd3e300cc66b42ceede,Pizza Hut,43.75616893156321,-79.51798348159733,Pizza Place,4bf58dd8d48988d1ca941735,1949 Finch Avenue W.,Downsview,43.76,-79.52,North York
 4bea026b62c0c928fb6be0d4,KFC,43.7566,-79.5181,Fast Food Restaurant,4bf58dd8d48988d16e941735,1971 Finch Avenue West,Downsview,43.76,-79.52,North York
 4e8673fbd66a9b178e911dd3,Petro-Canada,43.757187,-79.517778,Gas Station,4bf58dd8d48988d113951735,3900 Jane St,Downsview,43.76,-79.52,North York
 4e9c997293ada5036e2c9756,Popeyes Louisiana Kitchen,43.75660425382002,-79.51604685393343,Fried Chicken Joint,4d4ae6fc7a7b7dea34424761,3865 Jane St. Unit 31 (at Finch Ave. (Jane-Finch Mall)),Downsview,43.76,-79.52,North York
-4c7da6e89221236ae20b803d,Subway,43.75622810178744,-79.51833268621584,Sandwich Place,4bf58dd8d48988d1c5941735,"1911 Finch Ave West, Unit 29 (Jane st)",Downsview,43.76,-79.52,North York
+4c7da6e89221236ae20b803d,Subway,43.75617104020033,-79.5182508987524,Sandwich Place,4bf58dd8d48988d1c5941735,1961 Finch Ave West (Jane st),Downsview,43.76,-79.52,North York
 4c77c92bb4b4b60c05a2280e,LCBO,43.759256617873106,-79.51945388294175,Liquor Store,4bf58dd8d48988d186941735,1 Yorkgate Blvd. (in Yorkgate Mall),Downsview,43.76,-79.52,North York
-50183d0be4b0baa6b6320b9a,Dollarama,43.758177,-79.519679,Discount Store,52dea92d3cf9994f4e043dbb,"1 Yorkgate Blvd, York Gate Mall",Downsview,43.76,-79.52,North York
-587d6185f22995732d4fa31f,Planet Fitness,43.757538,-79.51961,Gym / Fitness Center,4bf58dd8d48988d175941735,Canada,Downsview,43.76,-79.52,North York
+4e7e0b117ee6ec38252d3886,Jian Hing Supermarket,43.75667320052111,-79.51844367991136,Grocery Store,4bf58dd8d48988d118951735,1989 Finch Ave W (at Jane St),Downsview,43.76,-79.52,North York
 50e6da19e4b0d8a78a0e9794,Lawrence Park Ravine,43.72696303913755,-79.39438246708775,Park,4bf58dd8d48988d163941735,3055 Yonge Street (Lawrence Avenue East),Lawrence Park,43.73,-79.39,Central Toronto
-5fd3418d6670e61e7a0f8d6b,HYC Design Inc.,43.72679332718912,-79.39168095588684,Business Service,5453de49498eade8af355881,21-131 Whitmore Rd,Lawrence Park,43.73,-79.39,Central Toronto
 5922c96a5d0fea5ae15c730f,Ecig Canada Zone,43.73156131167275,-79.39535960555077,Electronics Store,4bf58dd8d48988d122951735,2215 Steeles Ave W,Lawrence Park,43.73,-79.39,Central Toronto
-4f137528e4b01eeff040c3ef,The Bewding,43.707047,-79.417756,Spa,4bf58dd8d48988d1ed941735,3 Wingate,Roselawn,43.71,-79.42,Central Toronto
+600067e8d9cc927aceb2c209,BAGEL TIME MONTREAL STYLE,43.709067052513404,-79.41585838794708,Fast Food Restaurant,4bf58dd8d48988d16e941735,551 BLOOR STREET WEST,Roselawn,43.71,-79.42,Central Toronto
+5ae8cfe98496ca002c65d83a,Ceiling Champions,43.71389073142895,-79.42070245742796,Home Service,545419b1498ea6ccd0202f58,505 The West Mall Suite #207,Roselawn,43.71,-79.42,Central Toronto
 4c94cd12f244b1f7b430251d,Cortleigh Park,43.7084040472955,-79.42509457058311,Playground,4bf58dd8d48988d1e7941735,Canada,Roselawn,43.71,-79.42,Central Toronto
 4c0ee5bc15c2ef3bc3531b08,North Preparatory Public School Playground,43.70561406281572,-79.41936221631588,Playground,4bf58dd8d48988d1e7941735,1100 Spadina Rd. (2 blocks north of Eglinton),Roselawn,43.71,-79.42,Central Toronto
 55569b59498ec5aeca07911e,Rainhard Brewing,43.67269006118166,-79.47867903828485,Brewery,50327c8591d4c4b30a586d5d,100 Symes Rd,"Runnymede, The Junction North",43.67,-79.48,York
@@ -1376,17 +1367,20 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b646b24f964a52095b12ae3,Jumbo Burger,43.66604656112246,-79.48223103271583,Burger Joint,4bf58dd8d48988d16c941735,685 Runnymede Road (at Dundas St. W.),"Runnymede, The Junction North",43.67,-79.48,York
 4c5af11304f9be9a0601f360,Bairrada Churrasqueira,43.66992620738427,-79.47804059115232,BBQ Joint,4bf58dd8d48988d1df931735,2293 St.Clair Ave. W.,"Runnymede, The Junction North",43.67,-79.48,York
 4b9bc2edf964a520312236e3,Pioneer Energy,43.669809,-79.478739,Gas Station,4bf58dd8d48988d113951735,2317 St Clair Ave W,"Runnymede, The Junction North",43.67,-79.48,York
+4e6cccf2a80957ae44e2bdb9,Runnymede Park,43.668476287575736,-79.47915788898584,Park,4bf58dd8d48988d163941735,215 Ryding Ave,"Runnymede, The Junction North",43.67,-79.48,York
+4e94ef3361afef051b829856,Henrietta Park,43.67141626805629,-79.48145926898869,Park,4bf58dd8d48988d163941735,5 Henrietta St.,"Runnymede, The Junction North",43.67,-79.48,York
 4e8ba4917ee6beb5b5cd9c9c,Banh Cuon Thanh Truc,43.66945531360933,-79.48258492307914,Vietnamese Restaurant,4bf58dd8d48988d14a941735,2422 St Clair Avenue West (St. Clair Ave. W. & Runnymede Rd),"Runnymede, The Junction North",43.67,-79.48,York
 4bd10d0f77b29c74741e8c82,Petro-Canada,43.669362,-79.483156,Gas Station,4bf58dd8d48988d113951735,2460 St Clair Ave W (at Runnymede Rd),"Runnymede, The Junction North",43.67,-79.48,York
 50219df3e4b04afbc644f312,Sicily Pizza,43.66926401296779,-79.48296419744997,Pizza Place,4bf58dd8d48988d1ca941735,2438 St.Clair Ave W (Runnymede Rd),"Runnymede, The Junction North",43.67,-79.48,York
+52ae036311d24f8217a02c41,The Monkey Vault,43.672319023522476,-79.47879537517305,Athletics & Sports,4f4528bc4b90abdf24c9de85,101 Symes Rd.,"Runnymede, The Junction North",43.67,-79.48,York
 4ecc2fe882319a184b4ddd49,Welcome Food Mart,43.66970140136457,-79.48349146580819,Grocery Store,4bf58dd8d48988d118951735,839 Runnymede Rd (at St Clair Ave W),"Runnymede, The Junction North",43.67,-79.48,York
 4bb1358af964a5209e833ce3,EB Games,43.66859541777041,-79.48428831257917,Video Game Store,4bf58dd8d48988d10b951735,2471 St. Clair Ave W,"Runnymede, The Junction North",43.67,-79.48,York
+4d0831849232236abbd9bc53,TTC Bus #71 Runnymede,43.66700239968739,-79.48282241821289,Bus Line,4bf58dd8d48988d12b951735,Runnymede Rd.,"Runnymede, The Junction North",43.67,-79.48,York
 536a80fa498ea4305dc91c43,Caboose Coffee House,43.66557382466553,-79.48098142157025,Coffee Shop,4bf58dd8d48988d1e0931735,3333 Dundas St. West  (Runnymede road),"Runnymede, The Junction North",43.67,-79.48,York
 4e3c0b1fb0fb875af84e446e,Wallace C. Swanek Park,43.708896432967165,-79.52264785766602,Park,4bf58dd8d48988d163941735,Ontario,Weston,43.71,-79.52,York
 4e3c0a5cd164b52911992aca,Grattan Park,43.70622161954314,-79.52170483861298,Park,4bf58dd8d48988d163941735,Ontario,Weston,43.71,-79.52,York
 4df10b9d52b1faff6326fd7d,Pelmo Community Centre,43.71441852002091,-79.51989309816359,Outdoors & Recreation,4d4b7105d754a06377d81259,Toronto ON,Weston,43.71,-79.52,York
 4bc88e208b7c9c743b5538cf,Calabria Bakery,43.7616699583205,-79.26950674263456,Bakery,4bf58dd8d48988d16a941735,1772 Midland Avenue,"Dorset Park, Wexford Heights, Scarborough Town Centre",43.76,-79.27,Scarborough
-4dbc21be0437955ec029bfd6,Montmartre Bakery,43.75869874157778,-79.26773564785539,Bakery,4bf58dd8d48988d16a941735,105 Midwest,"Dorset Park, Wexford Heights, Scarborough Town Centre",43.76,-79.27,Scarborough
 4eee45dc6c25c7f9d2f89d9a,Aurora Fine China & Crystal,43.75715598493073,-79.26736129562715,Gift Shop,4bf58dd8d48988d128951735,1610 Midland Ave (Lawrence Ave),"Dorset Park, Wexford Heights, Scarborough Town Centre",43.76,-79.27,Scarborough
 4bda1b6c63c5c9b641c32268,Scarborough LRT,43.75646495188919,-79.2721939086914,Light Rail Station,4bf58dd8d48988d1fc931735,Eglinton Ave. E,"Dorset Park, Wexford Heights, Scarborough Town Centre",43.76,-79.27,Scarborough
 4bd2111477b29c7455e88d82,Kitchen Food Fair,43.751297901387304,-79.40139340223642,Convenience Store,4d954b0ea243a5684a65b473,33 The Links Rd. (at Tournament Dr.),York Mills West,43.75,-79.4,North York
@@ -1413,9 +1407,15 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 560f20eb498ef7d04038f8cd,Winners,43.71323606413252,-79.3938728363979,Department Store,4bf58dd8d48988d1f6941735,Canada,Davisville North,43.71,-79.39,Central Toronto
 4bfef68bc30a2d7fcd47101d,Pizza Pizza,43.70613821755869,-79.38929246805056,Pizza Place,4bf58dd8d48988d1ca941735,693 MOUNT PLEASANT ROAD,Davisville North,43.71,-79.39,Central Toronto
 4bd0d35c9854d13a2b8af84d,Love To Dance,43.70838672789582,-79.39055765587766,Dance Studio,4bf58dd8d48988d134941735,252 Eglinton Ave East (Mount Pleasany),Davisville North,43.71,-79.39,Central Toronto
+4b942882f964a520d36b34e3,Oisie sushi,43.7083013094919,-79.38842444207054,Japanese Restaurant,4bf58dd8d48988d111941735,744 Mt Pleasant rd (Eglinton),Davisville North,43.71,-79.39,Central Toronto
 4c3f2724db3b1b8d635e6695,900 Mount Pleasant - Residents Gym,43.71167058860572,-79.3917671882441,Gym / Fitness Center,4bf58dd8d48988d175941735,900 Mount Pleasant Road,Davisville North,43.71,-79.39,Central Toronto
 4bfcadc255539c741282bcf3,Redpath Convenience,43.7084818929206,-79.39318012193155,Grocery Store,4bf58dd8d48988d118951735,134 Redpath Ave (btw Yonge and Mt Pleasant),Davisville North,43.71,-79.39,Central Toronto
+4c3b9dd4be4620a12da90c13,Hasty Market,43.70828876418359,-79.39300720849684,Convenience Store,4d954b0ea243a5684a65b473,Redpath Ave (Eglinton Ave),Davisville North,43.71,-79.39,Central Toronto
 4ae33eb5f964a5203a9221e3,Timothy's World Coffee,43.706027101909015,-79.38936863344793,Coffee Shop,4bf58dd8d48988d1e0931735,700 mt pleasant ave,Davisville North,43.71,-79.39,Central Toronto
+4ad4c05cf964a52001f620e3,Sweet Gallery Exclusive Pastry,43.70597,-79.38923,Dessert Shop,4bf58dd8d48988d1d0941735,694 Mount Pleasant Rd.,Davisville North,43.71,-79.39,Central Toronto
+4b870b4cf964a5204aad31e3,Candy's Costume Shop,43.70591826811818,-79.38899874687195,Costume Shop,52f2ab2ebcbc57f1066b8b17,685 Mount Pleasant Rd. (Mount Pleasant & Eglinton),Davisville North,43.71,-79.39,Central Toronto
+4f0887d2e4b0e624d733802e,Moores,43.70762662125249,-79.39522399140168,Men's Store,4bf58dd8d48988d106951735,110 Eglinton Avenue East (Yonge),Davisville North,43.71,-79.39,Central Toronto
+593019f7123a191cde3c9b95,Kiva's Bagel Bar,43.707543,-79.39521,Bagel Shop,4bf58dd8d48988d179941735,Toronto ON M4P 2Y1,Davisville North,43.71,-79.39,Central Toronto
 4fdc0e98e4b05197cd14912b,The Abbot,43.703687730512435,-79.41348481516249,Gastropub,4bf58dd8d48988d155941735,508 Eglinton Ave W (Heddington Ave),"Forest Hill North & West, Forest Hill Road Park",43.7,-79.41,Central Toronto
 4c0a7fd5ffb8c9b680a06b61,Kay Gardner Beltline Trail,43.698445835574525,-79.40687298774719,Trail,4bf58dd8d48988d159941735,Yonge and Merton,"Forest Hill North & West, Forest Hill Road Park",43.7,-79.41,Central Toronto
 4c6fec0eb3ce224b581b72c6,Phipps Bakery Cafe,43.704116466227575,-79.41113522499343,Bakery,4bf58dd8d48988d16a941735,420 Eglinton Ave. W. (at Avenue Rd.),"Forest Hill North & West, Forest Hill Road Park",43.7,-79.41,Central Toronto
@@ -1430,11 +1430,10 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4afb75c5f964a520271e22e3,Kimono,43.70424116320532,-79.41008497921086,Sushi Restaurant,4bf58dd8d48988d1d2941735,359 Eglinton Ave West,"Forest Hill North & West, Forest Hill Road Park",43.7,-79.41,Central Toronto
 4dcebec3183899ddfada8061,Forest Hill Road Park,43.69794474434431,-79.4066047668457,Park,4bf58dd8d48988d163941735,179A Forest Hill Road,"Forest Hill North & West, Forest Hill Road Park",43.7,-79.41,Central Toronto
 4bf46b66706e20a14355a998,LCBO,43.7042882088373,-79.40926112581106,Liquor Store,4bf58dd8d48988d186941735,333 Eglinton Ave W (at Avenue Rd.),"Forest Hill North & West, Forest Hill Road Park",43.7,-79.41,Central Toronto
-4e346b9bb0fb59390e9417cb,Tony's On The Block,43.70403939477734,-79.41161775105097,Deli / Bodega,4bf58dd8d48988d146941735,430 Eglinton Ave E (at Castle Knock Rd),"Forest Hill North & West, Forest Hill Road Park",43.7,-79.41,Central Toronto
-4e6b930f18381ea1be6748fc,Tryst Lingerie,43.7038195521324,-79.41252469506422,Lingerie Store,4bf58dd8d48988d109951735,Toronto ON,"Forest Hill North & West, Forest Hill Road Park",43.7,-79.41,Central Toronto
 4bd30e129854d13acdbefc4d,Lithuania Park,43.658666653470426,-79.46303844451904,Park,4bf58dd8d48988d163941735,155 Oakmount Rd (at Glenlake & Keele),"High Park, The Junction South",43.66,-79.46,West Toronto
 4f85e3cde4b05ea63fe01118,RaviSoups,43.66155543199952,-79.45516037502253,Soup Place,4bf58dd8d48988d1dd931735,2535 Dundas St W (Jerome St.),"High Park, The Junction South",43.66,-79.46,West Toronto
 4bdd9448d33f2d7f8d1f8b3c,Chelsea Avenue Playground,43.657444135275405,-79.45567846298218,Playground,4bf58dd8d48988d1e7941735,103 Chelsea Ave (at Indian Rd),"High Park, The Junction South",43.66,-79.46,West Toronto
+52c86f0b498e1d9e64610c3d,Dundas - Dupont Traffic Island,43.66410067835332,-79.45780008575743,Park,4bf58dd8d48988d163941735,2640 Dundas St. W (Dupont),"High Park, The Junction South",43.66,-79.46,West Toronto
 4ae0db41f964a520168321e3,Keele Subway Station,43.65552814596267,-79.4595191519762,Metro Station,4bf58dd8d48988d1fd931735,1733 Bloor St W (at Keele St),"High Park, The Junction South",43.66,-79.46,West Toronto
 4c0bf5f5ffb8c9b6010b6e61,Mayflower Chinese Food,43.69275315666511,-79.53156594082111,Chinese Restaurant,4bf58dd8d48988d145941735,1500 Royal York Rd,Westmount,43.69,-79.53,Etobicoke
 4bc948ad3740b713b19b5e65,Petro-Canada,43.690165,-79.530166,Gas Station,4bf58dd8d48988d113951735,Canada,Westmount,43.69,-79.53,Etobicoke
@@ -1444,16 +1443,16 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ea325ee30f8b9d5aca9f09c,Royal York Fruit Market,43.69149356710751,-79.5314711469564,Flea Market,4bf58dd8d48988d1f7941735,Ontario,Westmount,43.69,-79.53,Etobicoke
 4beca28e6b88c9b6554a8762,Baskin-Robbins,43.69154676061439,-79.53170170483699,Ice Cream Shop,4bf58dd8d48988d1c9941735,1500 Royal York Rd,Westmount,43.69,-79.53,Etobicoke
 50de285fe4b0a2ae1817b514,Dollarama,43.691945,-79.531593,Discount Store,52dea92d3cf9994f4e043dbb,"1500 Royal York Rd, Royal York Plaza",Westmount,43.69,-79.53,Etobicoke
+5b2024bf1c675b002cf60a92,Connect Hearing,43.69188497214872,-79.53234264054493,Medical Supply Store,58daa1558bbb0b01f18ec206,"1500 Royal York Rd, 14",Westmount,43.69,-79.53,Etobicoke
 52f9326e11d2c6755f57f596,2 Bros Cuisine,43.69249918005648,-79.53169763088226,Middle Eastern Restaurant,4bf58dd8d48988d115941735,1500 Royal York Rd,Westmount,43.69,-79.53,Etobicoke
 4c8c196bf87e224b56e93105,Pizza Nova,43.69281687469844,-79.53156995754804,Pizza Place,4bf58dd8d48988d1ca941735,1500 Royal York Road,Westmount,43.69,-79.53,Etobicoke
 57f745dc498e32fba20af9f2,Scarborough Garage Door Repair,43.75128820404063,-79.30150777101517,Auto Garage,52f2ab2ebcbc57f1066b8b44,1256 Warden Ave,"Wexford, Maryvale",43.75,-79.3,Scarborough
 4bc75114af07a59340f07e2d,Tim Hortons,43.7809395,-79.4442308,Coffee Shop,4bf58dd8d48988d1e0931735,515 Drewry Ave (at Bathurst St.),"Willowdale, Willowdale West",43.78,-79.44,North York
-4e9b75b9e5e8dffcaeeee449,Charlton Park,43.78015758019084,-79.43797588348389,Park,4bf58dd8d48988d163941735,North York,"Willowdale, Willowdale West",43.78,-79.44,North York
 506d8ba5498e0db5b4741a6f,Ancona Park,43.77578881828353,-79.43797045745974,Park,4bf58dd8d48988d163941735,Canada,"Willowdale, Willowdale West",43.78,-79.44,North York
 4bcf38879854d13a7da3f54d,Eglinton Park,43.70743,-79.405359,Park,4bf58dd8d48988d163941735,222 Eglinton Ave. W. (btw Oriole Pkwy. & Edith Dr.),"North Toronto West,  Lawrence Park",43.71,-79.41,Central Toronto
-4e6e176c45dd293273b74e3c,Rosalind's Garden Oasis,43.71218888050602,-79.41197784736922,Garden,4bf58dd8d48988d15a941735,Toronto ON,"North Toronto West,  Lawrence Park",43.71,-79.41,Central Toronto
 4d38f64abb0d721e1e3a59e3,NTCC Swimming Pool,43.710552812924895,-79.40578561334489,Gym Pool,4bf58dd8d48988d105941735,Toronto ON,"North Toronto West,  Lawrence Park",43.71,-79.41,Central Toronto
 56a0e6f9498e6c0e1922d28b,Dr.Paul Hodges MIP,43.71063362746236,-79.41581010818481,Health & Beauty Service,54541900498ea6ccd0202697,120 Hillhurst Blvd,"North Toronto West,  Lawrence Park",43.71,-79.41,Central Toronto
+600067e8d9cc927aceb2c209,BAGEL TIME MONTREAL STYLE,43.709067052513404,-79.41585838794708,Fast Food Restaurant,4bf58dd8d48988d16e941735,551 BLOOR STREET WEST,"North Toronto West,  Lawrence Park",43.71,-79.41,Central Toronto
 4b31677bf964a520530625e3,Royal Conservatory of Music,43.66822758218325,-79.39631143267306,Music School,4f04b10d2fb6e1c99f3db0be,273 Bloor St W,"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 4adf787cf964a520e57a21e3,Koerner Hall,43.667983280307865,-79.3959619437764,Concert Hall,5032792091d4c4b30a586d5c,273 Bloor St. W (at Avenue Rd.),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 5b06c935f1936e002c076d10,Kimpton St. George,43.667367535338556,-79.40062654120706,Hotel,4bf58dd8d48988d1fa931735,282 Bloor St West (St. George St.),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
@@ -1497,7 +1496,9 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b9e7c03f964a52001e836e3,Second Cup,43.66678408790495,-79.39867310791561,Coffee Shop,4bf58dd8d48988d1e0931735,119 St. George Street (in Woodsworth College),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 4c17c9f02cddb7134f0b831e,Subway,43.66842331002552,-79.3954206525813,Sandwich Place,4bf58dd8d48988d1c5941735,200 Bloor St W (at Bedford Rd),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 4ae5d2bcf964a5204fa221e3,Noah's Natural Food,43.666914516444635,-79.4034584375335,Grocery Store,4bf58dd8d48988d118951735,322 Bloor St W (Spadina Ave),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
-4cdae9a7fc973704b09ccb05,Dr. Andrew Leung and Assoc.,43.66746042007,-79.4002719531707,Optical Shop,4d954afda243a5684865b473,268 Bloor Street West (St. George),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
+4baa7b94f964a520fc6d3ae3,Taddle Creek Park,43.66999014108493,-79.3984908002113,Park,4bf58dd8d48988d163941735,Lowther Ave. (Bedford Rd.),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
+50b3eee5e4b0ed0fc2780e7b,University-Spadina Line,43.66820177496591,-79.39960127614752,Metro Station,4bf58dd8d48988d1fd931735,Canada,"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
+505a572f7043c547ed8a205d,New Hope Fellowship,43.66771639489241,-79.40147638320923,Church,4bf58dd8d48988d132941735,455 Huron Street (Bloor and Huron Street),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 4cddb0567e2e236af96c7a1b,Second Cup (Miles Nadal JCC Fitness),43.66652744237173,-79.4038720660735,Coffee Shop,4bf58dd8d48988d1e0931735,750 Spadina Ave. (at Bloor St. W),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 58ab276772efa45b374d68e8,Potbelly Sandwich Shop,43.66859679425887,-79.39490019619865,Sandwich Place,4bf58dd8d48988d1c5941735,Canada,"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 58e92dda3e9dfb70ef9da002,Figures,43.67379121924397,-79.39757752425066,American Restaurant,4bf58dd8d48988d14e941735,137 Avenue Road,"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
@@ -1505,6 +1506,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c42292dda3dc9281315cab9,Subway,43.668562523053474,-79.39452031307071,Sandwich Place,4bf58dd8d48988d1c5941735,170 Bloor St W (at Avenue Rd),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 4c017f95b45676b02050e180,Huron and Washington Park,43.666094371777916,-79.40140932798386,Park,4bf58dd8d48988d163941735,2 Washington Ave (at Huron St),"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 4c2e1ce1e760c9b620ff4549,Blinds To Go,43.674163,-79.398606,Furniture / Home Store,4bf58dd8d48988d1f8941735,267 Davenport Rd,"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
+4ad4c061f964a5208ef720e3,Sopra Upper Lounge,43.674323824255254,-79.39832776659178,Restaurant,4bf58dd8d48988d1c4941735,265 Davenport Rd.,"The Annex, North Midtown, Yorkville",43.67,-79.4,Central Toronto
 4da70d0b90a00b5184013400,Pizzeria Defina,43.648722638277675,-79.44985455915354,Pizza Place,4bf58dd8d48988d1ca941735,321 Roncesvalles Avenue,"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
 4c81998e51ada1cd95c51410,The Chocolateria,43.64992822697901,-79.45043667719423,Dessert Shop,4bf58dd8d48988d1d0941735,361 Roncesvalles Ave.,"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
 52348da911d2fa119be56f12,La Cubana,43.65091223991817,-79.45090936982271,Cuban Restaurant,4bf58dd8d48988d154941735,392 Roncesvalles Ave (Howard Park Ave),"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
@@ -1547,9 +1549,8 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c008168ad46c9b65fad8f66,Shell,43.65165191,-79.44629385,Gas Station,4bf58dd8d48988d113951735,2010 Dundas St W,"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
 4b005df0f964a5205d3d22e3,Maple Produce,43.64596747661899,-79.4489240385491,Grocery Store,4bf58dd8d48988d118951735,225 Roncesvalles Ave. (btw Fermanagh Ave. & Wright Ave.),"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
 4adcba0ef964a520232f21e3,Pho Nho,43.652054,-79.44766,Vietnamese Restaurant,4bf58dd8d48988d14a941735,2060 Dundas Street W (Morrow Ave),"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
-588658ebe18e651b1ecf44ad,Bentos Auto and Tire,43.6515895,-79.4458864,Auto Workshop,56aa371be4b08b9a8d5734d3,2000 Dundas St W,"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
 4be4a564910020a11c09d214,Gallery 345,43.64925095714285,-79.444212,Concert Hall,5032792091d4c4b30a586d5c,345 Sorauren Ave,"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
-53650984498e43ca27013157,Owl Optometry,43.645779855855444,-79.44877316261562,Optical Shop,4d954afda243a5684865b473,173 Roncesvalles Avenue,"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
+4b944c02f964a5207a7334e3,Jac's Milk,43.645584429041996,-79.44891052353563,Convenience Store,4d954b0ea243a5684a65b473,Canada,"Parkdale, Roncesvalles",43.65,-79.45,West Toronto
 4b97d2fcf964a5200d1835e3,Gourmet Express,43.69311138097989,-79.55729392261416,Chinese Restaurant,4bf58dd8d48988d145941735,1735 Kipling Ave. (at Dixon Rd.),"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.69,-79.56,Etobicoke
 4c8aa09c770fb60c894dd4c3,The Beer Store,43.6933138,-79.5572835,Beer Store,5370f356bcbc57f1066c94c2,1735 Kipling Ave (in Westway Shopping Centre),"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.69,-79.56,Etobicoke
 4fac47d2e4b0f8e90a590479,Subway,43.692935717786156,-79.5573509193731,Sandwich Place,4bf58dd8d48988d1c5941735,"1735 Kipling Avenue, Suite # 15 (Kipling Ave & Dixon Rd)","Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.69,-79.56,Etobicoke
@@ -1559,7 +1560,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ba2faf2f964a520162638e3,Pizza Pizza,43.69321312231725,-79.55729000271057,Pizza Place,4bf58dd8d48988d1ca941735,1735 Kipling Avenue,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.69,-79.56,Etobicoke
 4b74360ff964a52057cd2de3,Martingrove Fish and Chips,43.690537,-79.561878,American Restaurant,4bf58dd8d48988d14e941735,5 Lavington Drive,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.69,-79.56,Etobicoke
 4bcccdc0937ca5935bcbab92,Food Basics,43.693738309210296,-79.55710530286524,Supermarket,52f2ab2ebcbc57f1066b8b46,1735 Kipling Ave (at Dixon Rd.),"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.69,-79.56,Etobicoke
-4c8818e6bbec6dcbc23bd158,TTC Bus 45 Kipling,43.69090730623053,-79.55706596374512,Bus Line,4bf58dd8d48988d12b951735,Kipling Ave. (Moving Target!),"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.69,-79.56,Etobicoke
 4babe056f964a52050d13ae3,Rogers,43.69262,-79.557402,Mobile Phone Shop,4f04afc02fb6e1c99f3db0bc,1735 Kipling Avenue,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",43.69,-79.56,Etobicoke
 4c5c9bee94fd0f47cb30c945,The Roti Hut,43.78727725968595,-79.25872401779647,Caribbean Restaurant,4bf58dd8d48988d144941735,351 Pitfield Rd (McCowan Rd),Agincourt,43.79,-79.26,Scarborough
 4e3451fcd4c063434821c41e,Panagio's Breakfast & Lunch,43.79237001092506,-79.26020325805978,Breakfast Spot,4bf58dd8d48988d143941735,1928 McCowan Rd.,Agincourt,43.79,-79.26,Scarborough
@@ -1569,8 +1569,9 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b50b100f964a520b72d27e3,El Pulgarcito,43.792647695283875,-79.25920775335268,Latin American Restaurant,4bf58dd8d48988d1be941735,30 Nugget Dr (Mccowan Road),Agincourt,43.79,-79.26,Scarborough
 4bbbf02851b89c7469f4862a,Le Spot,43.78816172704444,-79.26415672672607,Pool Hall,4bf58dd8d48988d1e3931735,4531 Sheppard Ave E,Agincourt,43.79,-79.26,Scarborough
 5330a297498e0af77483884b,Borsalino,43.7881209225317,-79.26504908695252,Mediterranean Restaurant,4bf58dd8d48988d1c0941735,4505 Sheppard Ave.  East,Agincourt,43.79,-79.26,Scarborough
+4d0008a44f56b60c39b09f37,Mark's,43.791178865505806,-79.25971427359902,Clothing Store,4bf58dd8d48988d103951735,1900 McCowan Road,Agincourt,43.79,-79.26,Scarborough
 4c5750926418a59356227f0e,Quiznos,43.78946932145228,-79.25862415054623,Sandwich Place,4bf58dd8d48988d1c5941735,4651 Sheppard Ave E (at McCowan),Agincourt,43.79,-79.26,Scarborough
-4b107754f964a520147123e3,Joey Bravo's Italian Restaurant,43.788071,-79.265134,American Restaurant,4bf58dd8d48988d14e941735,4505 Sheppard Ave E,Agincourt,43.79,-79.26,Scarborough
+4bcb797d937ca59364aea992,Cycle World Superstore,43.78840064611558,-79.26389008333248,Motorcycle Shop,5032833091d4c4b30a586d60,4545 Sheppard Ave. E (btwn Mccowan & Brimley Rd.),Agincourt,43.79,-79.26,Scarborough
 4b801467f964a5203e5030e3,June Rowlands Park,43.70051698238234,-79.38918866607341,Park,4bf58dd8d48988d163941735,220 Davisville Ave (btwn Mt Pleasant Rd & Acacia Rd),Davisville,43.7,-79.39,Central Toronto
 5169d445e4b07de190b5c3d6,Marigold Indian Bistro,43.702880859375,-79.38800811767578,Indian Restaurant,4bf58dd8d48988d10f941735,552 Mount Pleasant Rd.,Davisville,43.7,-79.39,Central Toronto
 4ae6ea6ef964a52082a721e3,Jules Cafe Patisserie,43.70413799694304,-79.38841260442167,Dessert Shop,4bf58dd8d48988d1d0941735,617 Mt Pleasant Ave (at Manor Rd E),Davisville,43.7,-79.39,Central Toronto
@@ -1637,7 +1638,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 51f9a48a498e67a8a901d01c,Kensington College Backpackers Hostel,43.65683749268775,-79.40320279537319,Bed & Breakfast,4bf58dd8d48988d1f8931735,280 Augusta Ave,"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 4b72d923f964a5204d8b2de3,Second Cup,43.65755884821184,-79.40323474475724,Coffee Shop,4bf58dd8d48988d1e0931735,340 College Street (at Augusta Ave.),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 50c374fde4b02d3a85905eb8,Canada Computers,43.65782957845768,-79.400988084756,Electronics Store,4bf58dd8d48988d122951735,284 College St (at Spadina Ave),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
-4ad4c05df964a5207bf620e3,Comfort Zone,43.65839738353197,-79.40027391815754,Nightclub,4bf58dd8d48988d11f941735,480 Spadina Avenue,"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 51cc15e1ccda974166ee304b,Red Fish Blue Fish Creative Cafe,43.662826909852434,-79.40281748771667,Café,4bf58dd8d48988d16d941735,73 Harbord St (at Sussex Mews),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 59065538e179105287c09ef4,CoCo Fresh Tea & Juice,43.65579001529184,-79.39912005684101,Bubble Tea Shop,52e81612bcbc57f1066b7a0c,371 Spadina Ave,"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 51315030e4b02e87fed7dc2c,The Cage 292,43.65776124888075,-79.40107452029794,Nightclub,4bf58dd8d48988d11f941735,292 College St (Spadina),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
@@ -1659,6 +1659,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ad4c062f964a520f9f720e3,Convocation Hall,43.66082829233904,-79.39524545662506,College Auditorium,4bf58dd8d48988d1af941735,31 King's College Cir. (University of Toronto),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 4af11491f964a520aee021e3,Charlie's Gallery,43.662809819602124,-79.40382164131282,Bar,4bf58dd8d48988d116941735,112 Harbord St. (@ Robert St),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 596fa6017269fe3e6b89ced3,James Cheese Back Ribs,43.65698248120175,-79.39937706745911,Korean Restaurant,4bf58dd8d48988d113941735,409 Spadina Ave,"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
+519c3c6a498eda4729ebd4f1,The Red Lounge,43.657097,-79.399749,Gastropub,4bf58dd8d48988d155941735,444 Spadina ave.,"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 4ae3ab5ef964a520fa9721e3,New Ho King,43.656118589279046,-79.39943704195525,Chinese Restaurant,4bf58dd8d48988d145941735,410 Spadina Ave. (btwn Nassau & Oxford),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 59606787b399f759ba243647,Beer2Beer,43.656826,-79.402824,Beer Bar,56aa371ce4b08b9a8d57356c,319 Augusta Ave,"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 4cc5e76091413704e955cc55,SUDS,43.65988035580764,-79.39471219966201,Bar,4bf58dd8d48988d116941735,10 King's College Rd (University of Toronto),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
@@ -1667,11 +1668,10 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 56689f1a498e00175f4ba8af,Magic Noodle,43.66272766027783,-79.4036022699349,Noodle House,4bf58dd8d48988d1d1941735,93 Harbord St (at Robert St),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 4f246e82e4b05d3ba151f6c9,The Saj,43.65878737223263,-79.39520834668025,Mediterranean Restaurant,4bf58dd8d48988d1c0941735,199 College St (at Beverley St),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 4ad4c05df964a5206af620e3,The Supermarket,43.656679898773774,-79.40295434688701,Bar,4bf58dd8d48988d116941735,268 Augusta Ave. (at College St.),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
-4c704e12df6b8cfabeefb74d,Convenience,43.66304780324281,-79.40207506070372,Convenience Store,4d954b0ea243a5684a65b473,605 spadina ave (Sussex),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 5414ecef498e544767668db3,Pig Out BBQ,43.66319457335147,-79.40224126247053,BBQ Joint,4bf58dd8d48988d1df931735,650 Spadina Ave (Spadina & Harbord),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
-4b71ede3f964a520cd642de3,Kee's Fine Foods,43.66319065887404,-79.39808398885582,Food Truck,4bf58dd8d48988d1cb941735,75 St. George St (at Harbord St),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 4b872bc1f964a5208bb431e3,Subway,43.663325290309224,-79.40249579718113,Sandwich Place,4bf58dd8d48988d1c5941735,656 Spadina Ave (at Harbord St.),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
-4c53b1e1fd2ea5937488dc28,Thymeless,43.6572899105222,-79.40347915710558,Nightclub,4bf58dd8d48988d11f941735,355 College St.,"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
+4b684b61f964a52012702be3,Diabolos',43.663121842458715,-79.39641237258911,Coffee Shop,4bf58dd8d48988d1e0931735,15 King's College Circle (University College),"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
+4e0bd442b61c18a1dc1eedf1,Julius Deutsch Park,43.65657588496505,-79.39676128977712,Park,4bf58dd8d48988d163941735,40 Cecil Street,"University of Toronto, Harbord",43.66,-79.4,Downtown Toronto
 50e5ef7ee4b0e2b1ec8e24cf,Baka Gallery Cafe,43.65103966439781,-79.47760530158712,Café,4bf58dd8d48988d16d941735,2256 Bloor St W (Beresford Ave),"Runnymede, Swansea",43.65,-79.48,West Toronto
 51f2a052498e3c69bf38ee85,The One That Got Away,43.64984188412754,-79.48261453424496,Fish & Chips Shop,4edd64a0c7ddd24ca188df1a,2392 Bloor St W,"Runnymede, Swansea",43.65,-79.48,West Toronto
 4ad4c05ff964a52032f720e3,Queen's Pasta Café,43.65070658803776,-79.47797787214411,Italian Restaurant,4bf58dd8d48988d110941735,2263 Bloor St W,"Runnymede, Swansea",43.65,-79.48,West Toronto
@@ -1718,17 +1718,15 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b264649f964a520be7924e3,Tim Hortons,43.648525791237965,-79.48506608605385,Coffee Shop,4bf58dd8d48988d1e0931735,2485 Bloor St West,"Runnymede, Swansea",43.65,-79.48,West Toronto
 4af6185af964a5201c0122e3,A Dark Horse,43.64953295859084,-79.4830557372747,Bar,4bf58dd8d48988d116941735,2401 Bloor Street West,"Runnymede, Swansea",43.65,-79.48,West Toronto
 4b7c1b9cf964a5205c7d2fe3,Second Cup,43.650136727534054,-79.48079476951547,Café,4bf58dd8d48988d16d941735,2340 Bloor St W (Windermere Ave),"Runnymede, Swansea",43.65,-79.48,West Toronto
-4c44d26cdd1f2d7ff26680f9,Yama,43.6498566723268,-79.48205245542091,Sushi Restaurant,4bf58dd8d48988d1d2941735,2370 Bloor St W (at Jane St.),"Runnymede, Swansea",43.65,-79.48,West Toronto
-59ac4bde037be17f2b90a561,Janchenko's Bakery,43.649827,-79.482622,Bakery,4bf58dd8d48988d16a941735,2394 Bloor Street West,"Runnymede, Swansea",43.65,-79.48,West Toronto
+4ed6c75e93adde11f849a3ea,Ana's Nail Boutique And Spa,43.650675,-79.479368,Spa,4bf58dd8d48988d1ed941735,Bloor St W (Windermere And Bloor),"Runnymede, Swansea",43.65,-79.48,West Toronto
 4b7b61c1f964a52003612fe3,Swansea School of Dance,43.64807706026409,-79.47900494041677,Dance Studio,4bf58dd8d48988d134941735,356 Windermere Ave (in Windermere United Church),"Runnymede, Swansea",43.65,-79.48,West Toronto
 4ce31a82910ea1cd1701747b,Retrofit Pilates,43.647948823562515,-79.47905374028939,Pilates Studio,5744ccdfe4b0c0459246b4b2,206-2323 Bloor St. W.,"Runnymede, Swansea",43.65,-79.48,West Toronto
-4b79d224f964a52042142fe3,Pizzaiolo,43.64939525764269,-79.48355965141116,Pizza Place,4bf58dd8d48988d1ca941735,2425 Bloor Street West (Jane),"Runnymede, Swansea",43.65,-79.48,West Toronto
 4b54fef2f964a52016d727e3,Pizza Pizza,43.64931132140717,-79.48455987958097,Pizza Place,4bf58dd8d48988d1ca941735,2449 Bloor Street West,"Runnymede, Swansea",43.65,-79.48,West Toronto
 4ae3928cf964a520ce9621e3,My Place - a Canadian Pub,43.64845840072295,-79.48518749174133,Pub,4bf58dd8d48988d11b941735,2448 Bloor st west (Jane st),"Runnymede, Swansea",43.65,-79.48,West Toronto
 4b3b88fcf964a520597525e3,Classico,43.649194,-79.484699,Pizza Place,4bf58dd8d48988d1ca941735,2457 Bloor St W (at Jane St),"Runnymede, Swansea",43.65,-79.48,West Toronto
+591133b1286fda16f50945b9,West End Mamas,43.6487032,-79.484919,Health Food Store,50aa9e744b90af0d42d5de0e,"2477 Bloor St W, 2nd Floor","Runnymede, Swansea",43.65,-79.48,West Toronto
 4b4a0e9bf964a5202f7926e3,Supper Solved,43.64878101033567,-79.48523252831198,Restaurant,4bf58dd8d48988d1c4941735,2452 Bloor St W (Jane Street),"Runnymede, Swansea",43.65,-79.48,West Toronto
 566334ad498e16a3d6a1199e,(The New) Moksha Yoga Bloor West,43.648658140097254,-79.48524158555848,Yoga Studio,4bf58dd8d48988d102941735,Canada,"Runnymede, Swansea",43.65,-79.48,West Toronto
-57dd9347cd10fabfa7c7fa62,The Coffee Bouquets,43.648785,-79.48594,Coffee Shop,4bf58dd8d48988d1e0931735,7 Riverview Gardens,"Runnymede, Swansea",43.65,-79.48,West Toronto
 4cdc8e53d4ecb1f7843c8048,The Royal Chinese Restaurant 避風塘小炒,43.78050473445372,-79.29884391314476,Chinese Restaurant,4bf58dd8d48988d145941735,3587 Sheppard Ave E (Birchmount Rd),"Clarks Corners, Tam O'Shanter, Sullivan",43.78,-79.3,Scarborough
 56fdaefd498e27417498764c,Kub Khao,43.780437780734204,-79.2998370364667,Thai Restaurant,4bf58dd8d48988d149941735,3561 Sheppard Ave E (at Birchmount Ave),"Clarks Corners, Tam O'Shanter, Sullivan",43.78,-79.3,Scarborough
 4e2b4705d164223a69808a57,Little Caesars Pizza,43.78056271894292,-79.2986242771319,Pizza Place,4bf58dd8d48988d1ca941735,3591 B Sheppard Ave East,"Clarks Corners, Tam O'Shanter, Sullivan",43.78,-79.3,Scarborough
@@ -1737,6 +1735,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4e0150c47d8beaa1649f749f,KFC,43.7804,-79.3007,Fast Food Restaurant,4bf58dd8d48988d16e941735,3495 Sheppard Avenue East,"Clarks Corners, Tam O'Shanter, Sullivan",43.78,-79.3,Scarborough
 4d8524e681fdb1f7a4d40bc0,Circle K,43.7809377,-79.2986338,Convenience Store,4d954b0ea243a5684a65b473,3600 Sheppard Ave. E.,"Clarks Corners, Tam O'Shanter, Sullivan",43.78,-79.3,Scarborough
 5cf17e8260255e002c994a7a,A&W Canada,43.780327,-79.29906,Fast Food Restaurant,4bf58dd8d48988d16e941735,3571 Sheppard Ave East,"Clarks Corners, Tam O'Shanter, Sullivan",43.78,-79.3,Scarborough
+4d59b20a1d6cf04d201d3afe,Rexall,43.7809,-79.298764,Pharmacy,4bf58dd8d48988d10f951735,3607 Sheppard Ave E (at Birchmount Rd),"Clarks Corners, Tam O'Shanter, Sullivan",43.78,-79.3,Scarborough
 4c6de1ace6b7b1f7d842ab8e,Gusto Pizza,43.78360724036883,-79.29898327417831,Pizza Place,4bf58dd8d48988d1ca941735,1 Bonis Ave. (at Birchmount Rd.),"Clarks Corners, Tam O'Shanter, Sullivan",43.78,-79.3,Scarborough
 52b1e6a8498e43e8f94b4b25,9bars,43.68865967473641,-79.3919401630648,Café,4bf58dd8d48988d16d941735,46 St. Clair Ave. E (Yonge St.),"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
 4aea3276f964a52019ba21e3,Sobeys Urban Fresh St. Clair,43.688479,-79.390769,Grocery Store,4bf58dd8d48988d118951735,81 St Clair Ave E (Ferndale Ave.),"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
@@ -1784,10 +1783,9 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b50d181f964a520853327e3,Loblaws,43.688484,-79.393781,Grocery Store,4bf58dd8d48988d118951735,12 St Clair Ave E (in St. Clair Centre),"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
 4b5cc189f964a520724229e3,Pizzaiolo,43.68799051263145,-79.39463424218918,Pizza Place,4bf58dd8d48988d1ca941735,13 St. Clair Ave. W. (at Yonge St.),"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
 4bd4b5885631c9b6a0f9a230,Sushi Gen,43.68886229852844,-79.3944898110323,Sushi Restaurant,4bf58dd8d48988d1d2941735,1502 Yonge St. (at St. Clair Ave. W),"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
-4c59837ab8b3c9b6b34b89b6,UPS Store,43.68744154741098,-79.39348799566834,Shipping Store,52f2ab2ebcbc57f1066b8b1f,7-B Pleasant Blvd (Yonge Street),"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
-4b59e316f964a520699e28e3,Midtown Digital,43.687128,-79.393447,Electronics Store,4bf58dd8d48988d122951735,1391 Yonge St,"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
+4bae43c6f964a520859a3be3,Paperboy,43.68738493677385,-79.39341652507079,Gift Shop,4bf58dd8d48988d128951735,7 Pleasant Blvd,"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
+4d6706a39792b1f7271f391f,TTC Stop #14345,43.68811358,-79.394513,Light Rail Station,4bf58dd8d48988d1fc931735,2 St. Clair Ave. West (Yonge),"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
 4d0cf291903d3704cdd8c055,Kiva's,43.687983764255456,-79.39471505267664,Bagel Shop,4bf58dd8d48988d179941735,15 St. Clair Ave. W (at Yonge St.),"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
-4bb823b853649c7445ce46fb,Rosehill Venue Lounge,43.686457244688555,-79.39305377160359,Lounge,4bf58dd8d48988d121941735,2 Rosehill Ave,"Moore Park, Summerhill East",43.69,-79.39,Central Toronto
 5644dbaa498e7f7534154326,Maker Pizza,43.6504011331197,-79.39804047841302,Pizza Place,4bf58dd8d48988d1ca941735,59 Cameron St,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 5b233c5595d986002c9e8788,Drom Taberna,43.648134029847476,-79.39967466122691,Bar,4bf58dd8d48988d116941735,458 Queen Street W,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4adf8284f964a520477b21e3,Core Studio Yoga & Pilates,43.647919673434195,-79.40019574557343,Yoga Studio,4bf58dd8d48988d102941735,553 Queen St. W (at Augusta Ave.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
@@ -1801,7 +1799,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ad76dadf964a520530a21e3,Dark Horse Espresso Bar,43.65056381026066,-79.39701810600826,Coffee Shop,4bf58dd8d48988d1e0931735,215 Spadina Ave (at Sullivan St.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4be0b04f4f15c9287a1bcc0b,La Palette,43.64782019405015,-79.40095745762193,French Restaurant,4bf58dd8d48988d10c941735,492 Queen Street West (at Denison),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 56464481498e460c7247dc56,Saku Sushi,43.648038262053305,-79.40026848917229,Sushi Restaurant,4bf58dd8d48988d1d2941735,478 Queen St West (Augusta),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
-4ade61b9f964a520797521e3,Tequila Bookworm,43.64769690944723,-79.40154896874483,Bar,4bf58dd8d48988d116941735,512 Queen St W (at Portland St),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 55a9c018498e8b05f7f870f1,Alo,43.64857357946059,-79.39624325999638,French Restaurant,4bf58dd8d48988d10c941735,163 Spadina Ave (Queen Street),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 5955561ffc9e94781410f061,Icha Tea 一茶間,43.65133601830261,-79.39736984238466,Tea Room,4bf58dd8d48988d1dc931735,235 Spadina Ave Unit 4,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 5afda69cfe0e2a002455224b,My Roti Place,43.648663,-79.397306,Indian Restaurant,4bf58dd8d48988d10f941735,406 Queen st West (Cameron),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
@@ -1835,13 +1832,11 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4af45a8af964a52097f121e3,Banh Mi Nguyen Huong,43.653628006211044,-79.3983759881993,Vietnamese Restaurant,4bf58dd8d48988d14a941735,322 Spadina Ave. (at Dundas St E),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 5632af4b498ee60496a2d7db,Kupfert & Kim,43.64794381005563,-79.39612137378384,Vegetarian / Vegan Restaurant,4bf58dd8d48988d1d3941735,140 Spadina Ave (at Richmond St W),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4a8d5b48f964a520840f20e3,The Moonbean Cafe,43.65414662211733,-79.40018175516231,Café,4bf58dd8d48988d16d941735,30 St Andrew St (at Spadina Ave),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
-4cb79089dd41a35d6a2fd4a0,Greens Vegetarian Restaurant,43.652033704026216,-79.40238187213345,Vegetarian / Vegan Restaurant,4bf58dd8d48988d1d3941735,Denison (Dundas St. W),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 589bc46a739d8546efb5f2fd,Grey Gardens,43.653479,-79.401427,Wine Bar,4bf58dd8d48988d123941735,199 Augusta,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4adb896df964a520bf2821e3,401 Richmond,43.64790630817995,-79.39521906011258,Art Gallery,4bf58dd8d48988d1e2931735,401 Richmond St W (at Spadina Ave),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4b6f3b53f964a520d9e52ce3,Americo,43.64814862211383,-79.39942972001549,Arts & Crafts Store,4bf58dd8d48988d127951735,456 Queen St West,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4b23c951f964a520ad5924e3,Kensington Food Market,43.654058473740236,-79.40037565547179,Farmers Market,4bf58dd8d48988d1fa941735,34 St. Andrew St. (at Kensington ave.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4da85dbd5da3ef8bf15c2702,Spadina Optometry,43.647235920384865,-79.39568268778311,Optical Shop,4d954afda243a5684865b473,127 Spadina Ave,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
-54021f74498eb7b482bbb420,Petit Nuage,43.65171670538228,-79.40399906956775,Dessert Shop,4bf58dd8d48988d1d0941735,707 Dundas St West (Bathurst and Dundas),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 50427a03e4b08d9f5931f593,Seven Lives - Tacos y Mariscos,43.65441817160925,-79.40054467846261,Mexican Restaurant,4bf58dd8d48988d1c1941735,69 Kensington Ave (Baldwin St),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4c30d270452620a196b01f0f,Alexandra Park,43.650582680667924,-79.40453778486872,Park,4bf58dd8d48988d163941735,"275 Bathurst St. (btwn Dundas, Carr & Denison)","Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4bfc5019da7120a132df49fd,St. Andrews Playground / Dog Park,43.64738759338116,-79.39875217247466,Park,4bf58dd8d48988d163941735,450 Adelaide Street West (Brant St & Adelaide St W),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
@@ -1871,12 +1866,12 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4fa30e16e4b0e966814a026e,Barreworks,43.64732263896442,-79.40296435435697,Gym / Fitness Center,4bf58dd8d48988d175941735,"625 Queen St. W., 3rd Fl. (nr Bathurst St.)","Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 526a9c8d498e559cf0f778c5,Fly Studio,43.64828277150768,-79.39827639985522,Yoga Studio,4bf58dd8d48988d102941735,489 Queen St W (Spadina),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 5b201e0d6f0aa2002c4e541a,COPS,43.645739,-79.398906,Donut Shop,4bf58dd8d48988d148941735,445 Adelaide St W,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
-4f2b4de6e4b009e97062d55e,Pizzeria Via Mercanti,43.65407077215065,-79.40192005863022,Italian Restaurant,4bf58dd8d48988d110941735,188 Augusta St.,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4b798147f964a52055fd2ee3,Carlos' House of Spice,43.654188111731344,-79.40190419262933,Gourmet Shop,4bf58dd8d48988d1f5941735,190 Augusta Ave. (at Denison Sq.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 539789cb498e6ed2a08eeafb,KINTON RAMEN,43.648705139567284,-79.39728052502396,Ramen Restaurant,55a59bace4b013909087cb24,402 Queen St W (at Cameron Avenue),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 5196a7b2498e9ad3f2006643,Nom Nom Nom Poutine & Crêpes,43.65211105018779,-79.40478604370892,Poutine Place,56aa371be4b08b9a8d5734c7,707 Dundas St W (at Bathurst St),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4b6e3f5ef964a52021b42ce3,Pat's Homestyle Jamaican Restaurant,43.64738643913458,-79.40321008296453,Caribbean Restaurant,4bf58dd8d48988d144941735,558 Queen St West,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4dced670fa7664b7c6b2858e,Duke's Cycle,43.64731422015173,-79.40297539263594,Bike Shop,4bf58dd8d48988d115951735,625 Queen Street West (Bathurst),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
+4ff222e6582f33c0ee007ba7,Handlebar,43.652898792690486,-79.40130476536174,Bar,4bf58dd8d48988d116941735,159 Augusta Ave. (Dundas),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 5987b49e1fa7635deb1499f9,Cool N2,43.648567,-79.397828,Dessert Shop,4bf58dd8d48988d1d0941735,412 Queen Street West,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 4ed00b8fb8f7971d6a344e5f,Loblaws,43.647656,-79.40163,Grocery Store,4bf58dd8d48988d118951735,585 Queen St W (at Portland St.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 507ef693e4b0324d293e4f49,Aroma Espresso Bar,43.64803481756751,-79.39958308867753,Café,4bf58dd8d48988d16d941735,525 Queen St W (at Augusta Ave.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
@@ -1888,10 +1883,14 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4fd3ea3ee4b0191b9c2b1aff,Rosewood Chinese Cuisine,43.65317123090316,-79.39670982441321,Chinese Restaurant,4bf58dd8d48988d145941735,463 Dundas St. W. (at Larch St.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 51be81b7498e2e1c1883a451,The Tiki Bar,43.64760710918619,-79.40269871340676,Bar,4bf58dd8d48988d116941735,542 Queen St West,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
 503fb59ce4b050691ba405a3,Gushi,43.65225817681606,-79.40488372625506,Japanese Restaurant,4bf58dd8d48988d111941735,707 Dundas St. W. (at Bathurst St.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
+4b283574f964a520e79024e3,To-Ne Sushi,43.64850841537041,-79.39773952950517,Sushi Restaurant,4bf58dd8d48988d1d2941735,414 Queen St. W. (at Spadina Ave.),"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
+581cbc55d84d39216bfe92a4,Pow Wow Cafe,43.65410919456478,-79.40177892237044,Taco Place,4bf58dd8d48988d151941735,213 Augusta Ave,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
+4b03ff12f964a520cd5022e3,Mini Bar,43.64716843096524,-79.39579321704292,Coffee Shop,4bf58dd8d48988d1e0931735,116 Spadina Ave,"Kensington Market, Chinatown, Grange Park",43.65,-79.4,Downtown Toronto
+4fd9f81ce4b041eadcc511bf,Yeung Fitness,43.8174942255491,-79.28095812986471,Gym,4bf58dd8d48988d176941735,106 Barnwell Drive,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.82,-79.28,Scarborough
 512d0a4be4b0aa0ac71ee7b4,Brimley Road Medical Center I.D.A.,43.82116709744444,-79.28365524277304,Pharmacy,4bf58dd8d48988d10f951735,3333 Brimley Rd (Wenlock),"Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.82,-79.28,Scarborough
+5273fe01498e56c4576154ea,IDA Pharmacy,43.821293,-79.284015,Pharmacy,4bf58dd8d48988d10f951735,3333 Brinkley Ave,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.82,-79.28,Scarborough
 51a26ff7498ededb052adaaf,Gold Hawk Park Playground,43.82349975904622,-79.28290115985261,Playground,4bf58dd8d48988d1e7941735,Alton Tower Cir.,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.82,-79.28,Scarborough
 4c2f714fed37a593353e6703,Goldhawk Park,43.82404066377522,-79.27773800548646,Park,4bf58dd8d48988d163941735,295 Alton Tower Cir.,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.82,-79.28,Scarborough
-51da388e498ec79dea16389c,Harvest restaurent,43.8243,-79.2815,Chinese Restaurant,4bf58dd8d48988d145941735,"8392 Kennedy Road, Suite 9","Milliken, Agincourt North, Steeles East, L'Amoreaux East",43.82,-79.28,Scarborough
 55c78cef498ec4095e9fba41,LCBO,43.686990631074885,-79.39923810519545,Liquor Store,4bf58dd8d48988d186941735,111 St. Clair West,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
 5a67afb973fe2528841f60f3,The Market By Longo’s,43.686711,-79.399536,Supermarket,52f2ab2ebcbc57f1066b8b46,111 St Clair Ave W,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
 4bee9a19e8c3c92897d89892,Vita Integrative Health Clinic,43.68949970008044,-79.39474412970407,Chiropractor,52e81612bcbc57f1066b7a3a,1560 Yonge Street,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
@@ -1918,11 +1917,10 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4c1d548ab4e62d7f389ddc93,Mr. Thai,43.68962660582034,-79.39474466731203,Thai Restaurant,4bf58dd8d48988d149941735,Toronto ON,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
 4c371d6c3849c9287113bdb1,UCC summer camps,43.69152798314834,-79.40343836255039,Skating Rink,4bf58dd8d48988d168941735,216 Lonsdale Rd.,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
 4e80a86df790783442cd8d96,Presse Café,43.687372075014444,-79.39782011026243,Café,4bf58dd8d48988d16d941735,95 St Clair W,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
-4c9687b538dd8cfa2e53dc62,TTC Stop #8160,43.687089,-79.398159,Light Rail Station,4bf58dd8d48988d1fc931735,St Clair Ave W (Deer Park Crescent),"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
 4b5cc189f964a520724229e3,Pizzaiolo,43.68799051263145,-79.39463424218918,Pizza Place,4bf58dd8d48988d1ca941735,13 St. Clair Ave. W. (at Yonge St.),"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
-4c015bc30bce20a10e96f6c6,Nail Boutique,43.687468,-79.39714864999999,Spa,4bf58dd8d48988d1ed941735,55 st clair west unit 016,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
 4bd4b5885631c9b6a0f9a230,Sushi Gen,43.68886229852844,-79.3944898110323,Sushi Restaurant,4bf58dd8d48988d1d2941735,1502 Yonge St. (at St. Clair Ave. W),"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
 4d0cf291903d3704cdd8c055,Kiva's,43.687983764255456,-79.39471505267664,Bagel Shop,4bf58dd8d48988d179941735,15 St. Clair Ave. W (at Yonge St.),"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
+4d6706a39792b1f7271f391f,TTC Stop #14345,43.68811358,-79.394513,Light Rail Station,4bf58dd8d48988d1fc931735,2 St. Clair Ave. West (Yonge),"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.69,-79.4,Central Toronto
 5b12b96b31ac6c00397662c0,Sansotei Ramen,43.63917614914748,-79.39818352488898,Ramen Restaurant,55a59bace4b013909087cb24,Fort York Blvd & Dan Leckie Way,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
 56f6ee66498e7f811a135ddd,Roywoods,43.63909873327465,-79.3984489696356,Caribbean Restaurant,4bf58dd8d48988d144941735,121 Fort York (Dan Leckie Way),"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
 5cae3bc7a2a6ce003947bf6d,Stackt,43.64081463026373,-79.40154744514722,Market,50be8ee891d4fa8dcc7199a7,28 Bathurst Street (Front Street West),"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
@@ -1967,14 +1965,14 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4e1b160d7d8bb17ec63a9cfe,Fox & Fiddle,43.64005292409581,-79.39402539776636,Pub,4bf58dd8d48988d11b941735,25 - 17 Fort York Boulevard (at Brunel Ct),"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
 4adf35b4f964a520547821e3,Sobeys Urban Fresh Spadina,43.640528,-79.394379,Grocery Store,4bf58dd8d48988d118951735,22 Fort York Blvd (at Spadina Ave),"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
 4f429220e4b015f1bcc03dbd,Wild Wing,43.643787909264624,-79.40301714652031,Wings Joint,4bf58dd8d48988d14c941735,675 King Street West (Bathurst),"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
+4b3f482af964a52031a525e3,Front Street Animal Hospital,43.64093240766659,-79.3990374351499,Veterinarian,4d954af4a243a5684765b473,548 Front St W (Bathurst),"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
 55f80c06498e5f04ea5ce550,15 Iceboat Terrace Fitness Centre,43.640957,-79.397366,Gym / Fitness Center,4bf58dd8d48988d175941735,15 Iceboat Terrace,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
 56465b51498e035a0830fc83,Nutella Café,43.64037162080135,-79.3941257308624,Café,4bf58dd8d48988d16d941735,22 Fort York Blvd (Spadina and Fort York),"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
 4ad7f103f964a5203a1021e3,Harbour Green Farms,43.63569983023805,-79.39854450587347,Grocery Store,4bf58dd8d48988d118951735,650 Queens Quay West,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",43.64,-79.4,Downtown Toronto
 4e88ebbb8231210e528f1523,Mario & Selina's No Frills,43.612186,-79.497828,Grocery Store,4bf58dd8d48988d118951735,220 Royal York Rd (Mimico Ave.),"New Toronto, Mimico South, Humber Bay Shores",43.61,-79.5,Etobicoke
 4c276929a852c9289127e86c,Mimico Arena,43.612739007491555,-79.49868183926128,Skating Rink,4bf58dd8d48988d168941735,Canada,"New Toronto, Mimico South, Humber Bay Shores",43.61,-79.5,Etobicoke
+4b25168ff964a5201b6c24e3,Hasty Market,43.61138973164352,-79.49639760920914,Convenience Store,4d954b0ea243a5684a65b473,176 Royal York Rd (Lakeshore),"New Toronto, Mimico South, Humber Bay Shores",43.61,-79.5,Etobicoke
 4dc87ae91f6e936efe45197a,Bikram Red Tree,43.612906199312604,-79.49828190873902,Yoga Studio,4bf58dd8d48988d102941735,Ontario,"New Toronto, Mimico South, Humber Bay Shores",43.61,-79.5,Etobicoke
-4c824f46dc018cfa86a0cd6c,Hillside park,43.61029626083803,-79.49454143337883,Park,4bf58dd8d48988d163941735,Toronto Division ON,"New Toronto, Mimico South, Humber Bay Shores",43.61,-79.5,Etobicoke
-4e53d444a8097c30ee8419ec,Mimico Memorial Park,43.610616712708584,-79.49409111285732,Park,4bf58dd8d48988d163941735,Toronto ON,"New Toronto, Mimico South, Humber Bay Shores",43.61,-79.5,Etobicoke
 4c633939e1621b8d48842553,Subway,43.74264512142215,-79.58964323010724,Sandwich Place,4bf58dd8d48988d1c5941735,"6210 Finch Ave West, Store 103 (at Albion Rd.)","South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.74,-79.59,Etobicoke
 4be58dc4cf200f479154133c,Shoppers Drug Mart,43.741685,-79.584487,Pharmacy,4bf58dd8d48988d10f951735,1530 Albion Rd (Albion Mall),"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.74,-79.59,Etobicoke
 4be70e26cf200f47e334153c,Popeyes Louisiana Kitchen,43.74120165509377,-79.58454469276013,Fried Chicken Joint,4d4ae6fc7a7b7dea34424761,1530 Albion Rd. (at Kipling Ave. (Albion Centre)),"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.74,-79.59,Etobicoke
@@ -1982,6 +1980,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4cd4738cdfb4a1cd4337535c,The Beer Store,43.7416936,-79.5843728,Beer Store,5370f356bcbc57f1066c94c2,1530 Albion Rd (Near Finch Ave. W.),"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.74,-79.59,Etobicoke
 4d8ba6910c4e41bdaaf7667f,Pizza Pizza,43.74156896801906,-79.58448886871338,Pizza Place,4bf58dd8d48988d1ca941735,"1530 Albion Road, Unit T25","South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.74,-79.59,Etobicoke
 4b04a05bf964a520c45522e3,Sheriff's No Frills,43.741696,-79.584379,Grocery Store,4bf58dd8d48988d118951735,1530 Albion Rd (at Finch Ave. W.),"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.74,-79.59,Etobicoke
+4f035c5c5c5c51dd31b52e55,Dollarama,43.742018,-79.591076,Discount Store,52dea92d3cf9994f4e043dbb,"1620 Albion Rd, Finch Albion Centre","South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens",43.74,-79.59,Etobicoke
 4df28ea0e4cda09e6da0129a,Mr Congee Chinese Cuisine 龍粥記,43.798878792587615,-79.3183345011537,Chinese Restaurant,4bf58dd8d48988d145941735,2900 Warden Ave (at Finch Ave. E),"Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
 4bd9e7933904a593572c449e,Subway,43.79867122318589,-79.31847549171897,Sandwich Place,4bf58dd8d48988d1c5941735,"2900 Warden Ave, Unit #100 (at Finch Ave. E)","Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
 4c182692838020a14fd7e361,RBC Royal Bank,43.798235996624136,-79.31795225759826,Bank,4bf58dd8d48988d10a951735,2900 WARDEN AVE (Warden and Finch),"Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
@@ -1990,10 +1989,9 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4cd71d2094848cfa6b07f1b1,Shoppers Drug Mart,43.799966,-79.317985,Pharmacy,4bf58dd8d48988d10f951735,2900 Warden Ave (at Bridlewood Mall),"Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
 4d54e0dca05c3704eae3b187,Pizza Pizza,43.79790927666095,-79.31811332702635,Pizza Place,4bf58dd8d48988d1ca941735,"2900 Warden Ave., Unit 205-207","Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
 4be1f582ae55a593a4275c62,Metro,43.79782980719172,-79.31849151849747,Supermarket,52f2ab2ebcbc57f1066b8b46,2900 Warden Ave (at Finch Ave. E),"Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
-58852a0c4bafb72b41f46e14,Presotea,43.799397,-79.319014,Bubble Tea Shop,52e81612bcbc57f1066b7a0c,2900 Warden Avenue,"Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
 4ba415b0f964a520c97f38e3,Rogers Plus,43.79891100560725,-79.31827661522881,Electronics Store,4bf58dd8d48988d122951735,2900 Warden Ave Unit # 220 (at Bridlewood Mall),"Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
 4cd6985967adf04d66d93391,Eggsmart,43.796375,-79.318681,Breakfast Spot,4bf58dd8d48988d143941735,3268 Finch Ave E. (at Bridletowne Cir.),"Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
-4efccc9bb8f701ff611ce191,Nantha's Bakery,43.79643013115188,-79.3191507994383,Indian Restaurant,4bf58dd8d48988d10f941735,Bridletowne Circle (Finch),"Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
+4ef289c0be7be23b0eae6e25,A Buck or Two,43.798286042580465,-79.31848503806829,Thrift / Vintage Store,4bf58dd8d48988d101951735,"2900 Warden Ave., Suite 180 (at Finch Ave. E)","Steeles West, L'Amoreaux West",43.8,-79.32,Scarborough
 4c0960fb009a0f472fabe7bf,Craigleigh Gardens,43.67809940868806,-79.37158584594727,Park,4bf58dd8d48988d163941735,160 South Drive (at Elm Ave),Rosedale,43.68,-79.37,Downtown Toronto
 4bd777aa5cf276b054639b00,Whitney Park,43.68203573063681,-79.37378835021306,Park,4bf58dd8d48988d163941735,Canada,Rosedale,43.68,-79.37,Downtown Toronto
 4c6a68d02c29d13aada00d41,Dog Patch,43.682827093180755,-79.36698511340134,Dog Run,4bf58dd8d48988d1e5941735,Evergreen Brick works,Rosedale,43.68,-79.37,Downtown Toronto
@@ -2101,11 +2099,11 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b9fbdb4f964a520583a37e3,Toronto Gymnastics International,43.59983195234328,-79.54292448822379,Gym,4bf58dd8d48988d176941735,77 Browns Line,"Alderwood, Long Branch",43.6,-79.54,Etobicoke
 4c2e93a2a0ced13ae42a0f6e,Timothy's Pub,43.60016508568706,-79.54469872722389,Pub,4bf58dd8d48988d11b941735,344 Brown's Line (at Roseland Dr.),"Alderwood, Long Branch",43.6,-79.54,Etobicoke
 50ad1433e4b065fd4f678ffd,Tim Hortons,43.60239631505536,-79.5450476557017,Coffee Shop,4bf58dd8d48988d1e0931735,435 Browns Line (at Shell Station),"Alderwood, Long Branch",43.6,-79.54,Etobicoke
-4ee7dab85c5c04b331bcadc2,Taras Shevchenko Ukrainian Community Centre,43.60220720982585,-79.54366246716957,Dance Studio,4bf58dd8d48988d134941735,482 Horner Ave,"Alderwood, Long Branch",43.6,-79.54,Etobicoke
 4c1e433bb9f876b0a4c97e46,Pioneer Energy,43.597355,-79.543241,Gas Station,4bf58dd8d48988d113951735,198 Brown'S Line (at Owen Dr),"Alderwood, Long Branch",43.6,-79.54,Etobicoke
 4c5eeb6f857ca59370d9d0cb,Franklin Horner Community Centre,43.60370722144246,-79.53813754757284,Athletics & Sports,4f4528bc4b90abdf24c9de85,432 Horner Ave,"Alderwood, Long Branch",43.6,-79.54,Etobicoke
 5273f6f311d2137549494e29,Economy Rent A Car,43.708471,-79.589943,Rental Car Location,4bf58dd8d48988d1ef941735,Canada,"Northwest, West Humber - Clairville",43.71,-79.59,Etobicoke
 4fa3ca28e4b05ddd65da97ae,Woodbine Hotel & Suites,43.712624444842106,-79.59266375766718,Hotel,4bf58dd8d48988d1fa931735,Canada,"Northwest, West Humber - Clairville",43.71,-79.59,Etobicoke
+5cf84d261fa7630039603d96,Container Block Inc,43.7080943,-79.5861412,Business Service,5453de49498eade8af355881,185 Bethridge Rd,"Northwest, West Humber - Clairville",43.71,-79.59,Etobicoke
 4b646a6ff964a5205cb12ae3,Cranberries,43.6678427705951,-79.36940687874281,Diner,4bf58dd8d48988d147941735,601 Parliament St. (at Wellesley St. E),"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 4e4e7aa06365e1419d021044,F'Amelia,43.66753590663226,-79.36861331485827,Italian Restaurant,4bf58dd8d48988d110941735,12 Amelia St (Parliament St),"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 5412007d498e1e2d959ac35e,Murgatroid,43.66738149016019,-79.36931129229457,Restaurant,4bf58dd8d48988d1c4941735,568 Parliament St. (Wellesley),"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
@@ -2132,9 +2130,10 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b2c03aaf964a5209ebf24e3,Shoppers Drug Mart,43.670177,-79.375649,Pharmacy,4bf58dd8d48988d10f951735,"565 Sherbourne St, Unit 40 (at Isabella St)","St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 4c85b68847cc224b1bc8a39f,Handy Variety,43.66982769157935,-79.37593205877658,Food & Drink Shop,4bf58dd8d48988d1f9941735,591 Sherbourn st.,"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 4b9c832af964a520936d36e3,Pizza Pizza,43.66809038080825,-79.37027389227195,Pizza Place,4bf58dd8d48988d1ca941735,297 Wellesley St. East,"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
+4bf27d0a82002d7f4794d0bb,Tim Hortons / Esso,43.66712972601009,-79.37066407870991,Coffee Shop,4bf58dd8d48988d1e0931735,2-22 Aberdeen Ave.,"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 4ffb6fbfe4b08049d96ff519,Rosedale Ravine,43.672151681201306,-79.36715009255055,Park,4bf58dd8d48988d163941735,Canada,"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 5834b813dfa6ff3ccc3c4466,Staij & Co Café and Pastry Boutique,43.666862703979966,-79.36922818422318,Café,4bf58dd8d48988d16d941735,552 parliament st,"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
-4b1985bff964a520cbde23e3,Menagerie Pet Shop,43.6664445877461,-79.36877399959107,Pet Store,4bf58dd8d48988d100951735,549 Parliament St. (btwn Carlton & Wellesley),"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
+4ae0cc02f964a520998221e3,Cabbagetown Boxing Club,43.66635649643754,-79.36936238125051,Gym / Fitness Center,4bf58dd8d48988d175941735,2 Lancaster Avenue (Parliament),"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 4b17b845f964a5206fc723e3,Tim Hortons,43.665785871990316,-79.36828404664993,Coffee Shop,4bf58dd8d48988d1e0931735,537 Parliament St (at Winchester St.),"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 4ee7825e7ee50feb35c26f19,Gateway Newstands,43.67371579258799,-79.36893184865733,Convenience Store,4d954b0ea243a5684a65b473,Bloor (Castle Frank),"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
 4b01dcb2f964a520114622e3,Castle Frank Subway Station,43.67378501123131,-79.36864748597145,Metro Station,4bf58dd8d48988d1fd931735,600 Bloor St E (at Castle Frank Rd.),"St. James Town, Cabbagetown",43.67,-79.37,Downtown Toronto
@@ -2268,6 +2267,7 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4b87eb6ff964a520e8d231e3,Starbucks,43.646597,-79.513914,Coffee Shop,4bf58dd8d48988d1e0931735,3079-3081 Bloor St W (Thompson Ave),"The Kingsway, Montgomery Road, Old Mill North",43.65,-79.51,Etobicoke
 4cdc7d9dcea2224bc49f8b4c,Swiss Chalet,43.64788818324853,-79.50835594083776,Restaurant,4bf58dd8d48988d1c4941735,2955 Bloor St W (at Jackson Ave),"The Kingsway, Montgomery Road, Old Mill North",43.65,-79.51,Etobicoke
 4b0331f5f964a520654d22e3,Rogers,43.64708,-79.51155,Mobile Phone Shop,4f04afc02fb6e1c99f3db0bc,3015 Bloor St W (Royal York Rd.),"The Kingsway, Montgomery Road, Old Mill North",43.65,-79.51,Etobicoke
+4e557155483b7ae46daab5d6,TTC Bus #76 - Royal York South,43.64799300712666,-79.51134725854226,Bus Line,4bf58dd8d48988d12b951735,Royal York Rd.,"The Kingsway, Montgomery Road, Old Mill North",43.65,-79.51,Etobicoke
 4be6b46ebcef2d7fa55e05e5,Tim Hortons,43.6466778,-79.5137003,Coffee Shop,4bf58dd8d48988d1e0931735,3071 Bloor St West (Royal York),"The Kingsway, Montgomery Road, Old Mill North",43.65,-79.51,Etobicoke
 4b22f5adf964a520225124e3,Gabby's Grill & Taps,43.648451979703715,-79.50648193548962,Bar,4bf58dd8d48988d116941735,2899 Bloor St W,"The Kingsway, Montgomery Road, Old Mill North",43.65,-79.51,Etobicoke
 569e7814498e1a7f3e01bfe4,Rooster Coffee House,43.66965378571954,-79.379870566686,Coffee Shop,4bf58dd8d48988d1e0931735,568 Jarvis St (At Charles St E),Church and Wellesley,43.67,-79.38,Downtown Toronto
@@ -2348,7 +2348,6 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4ca63600a6e08cfa286b7894,Hudson's Bay Centre - Food Court,43.6713931854864,-79.38461303418677,Food Court,4bf58dd8d48988d120951735,Bloor,Church and Wellesley,43.67,-79.38,Downtown Toronto
 4d1e415e0901721e636d80a5,Hazeldean Park,43.67329298413735,-79.38328913291717,Park,4bf58dd8d48988d163941735,SE corner of Park Rd (Rosedale Valley Drive),Church and Wellesley,43.67,-79.38,Downtown Toronto
 4bfd750cf61dc9b6f40e9fde,Hudson's Bay,43.67082589,-79.38580819,Department Store,4bf58dd8d48988d1f6941735,2 Bloor Street East (at Yonge St),Church and Wellesley,43.67,-79.38,Downtown Toronto
-4dc98243922edc3cd7dbee37,Verve Gym,43.666701611651455,-79.3765389368446,Gym / Fitness Center,4bf58dd8d48988d175941735,120 Homewood Ave.,Church and Wellesley,43.67,-79.38,Downtown Toronto
 551486ff498ee91ac6d40f43,Starbucks,43.627931,-79.489286,Coffee Shop,4bf58dd8d48988d1e0931735,"150 Park Lawn Rd, Unit A (The Queensway)","Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East",43.63,-79.49,Etobicoke
 4e5f0010814d9e0233e0b715,Tim Hortons,43.628255432085226,-79.48958963155741,Coffee Shop,4bf58dd8d48988d1e0931735,152 Park Lawn Rd (The Queensway),"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East",43.63,-79.49,Etobicoke
 4e9a5b12be7bc875aa79c326,RBC Royal Bank,43.628753713172486,-79.4903916771285,Bank,4bf58dd8d48988d10a951735,515 THE QUEENSWAY,"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East",43.63,-79.49,Etobicoke
@@ -2374,5 +2373,5 @@ ven_id,ven_name,ven_lat,ven_lng,ven_category_name,ven_category_id,ven_address,ne
 4aec9552f964a52007c921e3,McDonald's,43.6300066,-79.5180412,Fast Food Restaurant,4bf58dd8d48988d16e941735,1001 Islington Ave (btwn Titan Rd & Jutland Rd),"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.63,-79.52,Etobicoke
 4b4a2c3ff964a520507d26e3,Jim & Maria's No Frills,43.631152,-79.518617,Grocery Store,4bf58dd8d48988d118951735,1020 Islington Ave (at Titan Rd.),"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.63,-79.52,Etobicoke
 4c2e6d1d16adc928d3debb9c,Koala Tan Tanning Salon & Sunless Spa,43.63137,-79.519006,Tanning Salon,4d1cf8421a97d635ce361c31,"1020 Islington Avenue, suite 3 (at Titan Rd)","Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.63,-79.52,Etobicoke
-53aad60b498ef2b98028e860,Once Upon A Child,43.63107450118501,-79.51828995238323,Kids Store,4bf58dd8d48988d105951735,Canada,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.63,-79.52,Etobicoke
+59023da39746172d9dea9b60,Value Village,43.63126851470556,-79.51823830604553,Thrift / Vintage Store,4bf58dd8d48988d101951735,1020 Islington Avenue,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.63,-79.52,Etobicoke
 4fb2b687e4b002c2289bf462,Second Cup,43.63426233887402,-79.51985408011149,Café,4bf58dd8d48988d16d941735,1050 Islington Ave. (Norseman St),"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",43.63,-79.52,Etobicoke
